@@ -1,0 +1,9 @@
+,visual_paint_score,visual_paving_score,visual_kitchen_score,visual_ceiling_score,visual_floor_score,visual_security_score,visual_solar_score,visual_completion_score
+visual_paint_score,1.0,0.313,0.371,0.267,0.447,0.172,0.465,0.428
+visual_paving_score,0.313,1.0,0.422,0.147,0.277,0.14,0.59,0.57
+visual_kitchen_score,0.371,0.422,1.0,0.048,0.216,0.001,0.704,0.609
+visual_ceiling_score,0.267,0.147,0.048,1.0,0.598,0.059,0.16,0.48
+visual_floor_score,0.447,0.277,0.216,0.598,1.0,-0.061,0.42,0.591
+visual_security_score,0.172,0.14,0.001,0.059,-0.061,1.0,0.049,-0.045
+visual_solar_score,0.465,0.59,0.704,0.16,0.42,0.049,1.0,0.706
+visual_completion_score,0.428,0.57,0.609,0.48,0.591,-0.045,0.706,1.0

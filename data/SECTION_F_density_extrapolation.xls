@@ -1,0 +1,3 @@
+identifier,suburb,area,5nn_distance,training_percentile,nearest_training_count,density_assessment
+SYNTH_A_MADOKERO,Madokero,Harare West,2.3233319817783893,27.083333333333332,5,Within dense/common training region
+SYNTH_B_MABVAZUVA,Mabvazuva,Ruwa,2.6066106320679947,70.83333333333334,5,Moderately sparse

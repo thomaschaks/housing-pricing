@@ -1,0 +1,732 @@
+term,mutual_information
+home,0.0946518956921949
+property,0.08038580167916765
+spacious,0.07650258312277758
+sale,0.057054570500669866
+bedrooms,0.04012939726384468
+stand,0.03881646996339405
+set,0.03791598468304158
+double,0.037140340033519736
+offers,0.03656104886305578
+comfort,0.03568722462290563
+storey,0.03562675219775391
+space,0.03560045777371901
+secure,0.03542828159036904
+features,0.03525789129940726
+double storey,0.0344021569713191
+home offers,0.034351428046948795
+maintained,0.03411285258078334
+property features,0.03372306108742218
+storey home,0.03364625123685161
+spacious bedrooms,0.03364625123685161
+offer,0.03364625123685161
+offers comfort,0.03356981745828125
+gletwin,0.03349375692029921
+lovely,0.0333427443838874
+comfort space,0.03319319154499911
+grid,0.03319319154499911
+maintained home,0.03319319154499911
+oasis,0.03311895573271306
+home secure,0.03311895573271306
+offer sale,0.03311895573271306
+measuring,0.03311895573271306
+comprises spacious,0.03311895573271306
+comprises,0.033115845220252016
+located,0.029169766604469016
+clusters,0.0278455979621115
+permit,0.02778562239937965
+square,0.026800194905510777
+meters,0.026568914115914555
+square meters,0.026454904196710483
+approximately,0.026454904196710483
+roof,0.0263419602340641
+100,0.02623006684382423
+kitchen,0.013030203538317964
+lounge,0.012696053221494252
+dining,0.01262048090761636
+lounge dining,0.011745904043322986
+gated,0.011711629276977997
+walled,0.011585909510324566
+single,0.01149543054970803
+walled gated,0.01138132592989749
+road,0.011283564813825975
+beds,0.011189149713910052
+bed,0.011111660052496752
+quarters,0.011094272084855916
+staff,0.010959863482705279
+staff quarters,0.01094491368739825
+fully,0.010875913006089366
+avondale,0.010846501475618497
+dining kitchen,0.010831855290181047
+bed cottage,0.010817248680376479
+baths,0.010802681537355308
+king,0.010788153751756235
+king george,0.010788153751756235
+george,0.010788153751756235
+cottage,0.010268447259438651
+bedroomed,1.9984014443252818e-15
+harare west,1.9984014443252818e-15
+north,1.9984014443252818e-15
+sqm,1.9984014443252818e-15
+situated,1.9984014443252818e-15
+neat,1.9984014443252818e-15
+land,1.9984014443252818e-15
+harare,1.887379141862766e-15
+investment opportunity,1.887379141862766e-15
+opportunity,1.887379141862766e-15
+discover,1.887379141862766e-15
+charming,1.887379141862766e-15
+bathroom,1.887379141862766e-15
+en suite,1.887379141862766e-15
+open plan,1.887379141862766e-15
+great,1.887379141862766e-15
+heart,1.887379141862766e-15
+built,1.887379141862766e-15
+main bedroom,1.887379141862766e-15
+title deeds,1.887379141862766e-15
+waterfalls,1.2212453270876722e-15
+kitchen lounge,1.2212453270876722e-15
+modern fitted,1.2212453270876722e-15
+acre,1.2212453270876722e-15
+storey family,1.2212453270876722e-15
+park harare,1.2212453270876722e-15
+drive,1.2212453270876722e-15
+asking,1.2212453270876722e-15
+frontage,1.2212453270876722e-15
+heights,1.2212453270876722e-15
+comprising,1.2212453270876722e-15
+mt pleasant,1.2212453270876722e-15
+m² built,1.2212453270876722e-15
+newly,1.2212453270876722e-15
+mt,1.2212453270876722e-15
+property sale,1.2212453270876722e-15
+pleasant heights,1.2212453270876722e-15
+pomona,1.2212453270876722e-15
+living space,1.1102230246251565e-15
+lock,1.1102230246251565e-15
+home located,1.1102230246251565e-15
+structure,1.1102230246251565e-15
+zimre,1.1102230246251565e-15
+solid,1.1102230246251565e-15
+bics,1.1102230246251565e-15
+sitting,1.1102230246251565e-15
+newly built,1.1102230246251565e-15
+new,1.1102230246251565e-15
+building,1.1102230246251565e-15
+borrowdale,1.1102230246251565e-15
+modern,1.1102230246251565e-15
+luxury,1.1102230246251565e-15
+garage,1.1102230246251565e-15
+glen lorne,1.1102230246251565e-15
+lorne,1.1102230246251565e-15
+east,1.1102230246251565e-15
+centre,1.1102230246251565e-15
+self,1.1102230246251565e-15
+deeds,1.1102230246251565e-15
+residence,1.1102230246251565e-15
+incomplete,1.1102230246251565e-15
+west,1.1102230246251565e-15
+suburb,9.992007221626409e-16
+just,9.992007221626409e-16
+comfortable,9.992007221626409e-16
+bedrooms bathrooms,9.992007221626409e-16
+bedroom home,9.992007221626409e-16
+sandton,9.992007221626409e-16
+main house,9.992007221626409e-16
+hatfield,9.992007221626409e-16
+bedrooms main,9.992007221626409e-16
+solar,9.992007221626409e-16
+family home,9.992007221626409e-16
+borehole,9.992007221626409e-16
+nestled,9.992007221626409e-16
+presents,3.3306690738754696e-16
+price,3.3306690738754696e-16
+residential,3.3306690738754696e-16
+positioned,3.3306690738754696e-16
+bedroomed house,3.3306690738754696e-16
+phase,3.3306690738754696e-16
+dining room,3.3306690738754696e-16
+designed,3.3306690738754696e-16
+westgate,3.3306690738754696e-16
+chitungwiza,3.3306690738754696e-16
+bathroom toilet,3.3306690738754696e-16
+excellent,3.3306690738754696e-16
+offers perfect,3.3306690738754696e-16
+size,3.3306690738754696e-16
+lounges,3.3306690738754696e-16
+fitted kitchen,3.3306690738754696e-16
+mes,3.3306690738754696e-16
+close,3.3306690738754696e-16
+home sought,3.3306690738754696e-16
+house,3.3306690738754696e-16
+level,3.3306690738754696e-16
+000 m²,3.3306690738754696e-16
+available,3.3306690738754696e-16
+location,3.3306690738754696e-16
+sits,3.3306690738754696e-16
+area,3.3306690738754696e-16
+storey house,3.3306690738754696e-16
+perfect blend,3.3306690738754696e-16
+ready,3.3306690738754696e-16
+dining lounge,3.3306690738754696e-16
+house bedrooms,2.220446049250313e-16
+house features,2.220446049250313e-16
+house comprises,2.220446049250313e-16
+700,2.220446049250313e-16
+incomplete double,2.220446049250313e-16
+substantial,2.220446049250313e-16
+highly,2.220446049250313e-16
+highly sought,2.220446049250313e-16
+hill,2.220446049250313e-16
+home generous,2.220446049250313e-16
+arlington,2.220446049250313e-16
+residential house,2.220446049250313e-16
+present,2.220446049250313e-16
+corner stand,2.220446049250313e-16
+corner,2.220446049250313e-16
+council,2.220446049250313e-16
+cupboards,2.220446049250313e-16
+creagh,2.220446049250313e-16
+council cession,2.220446049250313e-16
+private,2.220446049250313e-16
+spacious lounge,2.220446049250313e-16
+combined,2.220446049250313e-16
+suite,2.220446049250313e-16
+500,2.220446049250313e-16
+800 m²,2.220446049250313e-16
+800,2.220446049250313e-16
+700 m²,2.220446049250313e-16
+use,2.220446049250313e-16
+unit,2.220446049250313e-16
+contemporary,2.220446049250313e-16
+comprises bedrooms,2.220446049250313e-16
+prime location,2.220446049250313e-16
+commercial use,2.220446049250313e-16
+privacy,2.220446049250313e-16
+property sits,2.220446049250313e-16
+community,2.220446049250313e-16
+bedroom bath,2.220446049250313e-16
+rare opportunity,2.220446049250313e-16
+prospect,2.220446049250313e-16
+bed house,2.220446049250313e-16
+bedroom ensuite,2.220446049250313e-16
+investors,2.220446049250313e-16
+home set,2.220446049250313e-16
+step,2.220446049250313e-16
+discerning,2.220446049250313e-16
+eastlea,2.220446049250313e-16
+elegant,2.220446049250313e-16
+en,2.220446049250313e-16
+opposite,2.220446049250313e-16
+ownership,2.220446049250313e-16
+pantry,2.220446049250313e-16
+perfectly,2.220446049250313e-16
+desirable,2.220446049250313e-16
+developer cession,2.220446049250313e-16
+developer,2.220446049250313e-16
+development,2.220446049250313e-16
+bedroom family,2.220446049250313e-16
+plan,2.220446049250313e-16
+dinning,2.220446049250313e-16
+comes,2.220446049250313e-16
+closet,2.220446049250313e-16
+spacious family,2.220446049250313e-16
+pleasant,2.220446049250313e-16
+bedroom house,2.220446049250313e-16
+open,2.220446049250313e-16
+road frontage,2.220446049250313e-16
+room kitchen,2.220446049250313e-16
+bathrooms generous,2.220446049250313e-16
+beautifully,2.220446049250313e-16
+sandton park,2.220446049250313e-16
+roomed,2.220446049250313e-16
+carrick,2.220446049250313e-16
+security,2.220446049250313e-16
+seperate,2.220446049250313e-16
+stand size,2.220446049250313e-16
+family living,2.220446049250313e-16
+features bedrooms,2.220446049250313e-16
+featuring,2.220446049250313e-16
+finish,2.220446049250313e-16
+m² stand,2.220446049250313e-16
+single level,2.220446049250313e-16
+expansive,2.220446049250313e-16
+families,2.220446049250313e-16
+shopping,2.220446049250313e-16
+shell,2.220446049250313e-16
+brooke,2.220446049250313e-16
+built cupboards,2.220446049250313e-16
+brick,2.220446049250313e-16
+borrowdale brooke,2.220446049250313e-16
+shopping centre,2.220446049250313e-16
+near,2.220446049250313e-16
+set expansive,2.220446049250313e-16
+set generous,2.220446049250313e-16
+serene,2.220446049250313e-16
+m² living,2.220446049250313e-16
+mount,2.220446049250313e-16
+sqm stand,2.220446049250313e-16
+offices,2.220446049250313e-16
+bath toilet,2.220446049250313e-16
+exceptional opportunity,2.220446049250313e-16
+established,2.220446049250313e-16
+ensuites,2.220446049250313e-16
+neat solid,2.220446049250313e-16
+charming family,2.220446049250313e-16
+cession,2.220446049250313e-16
+carrick creagh,2.220446049250313e-16
+city,2.220446049250313e-16
+gem,2.220446049250313e-16
+generous 000,2.220446049250313e-16
+market,2.220446049250313e-16
+marlborough,2.220446049250313e-16
+finishing,2.220446049250313e-16
+floor,2.220446049250313e-16
+functionality,2.220446049250313e-16
+footprint,2.220446049250313e-16
+mount pleasant,2.220446049250313e-16
+m² building,2.220446049250313e-16
+modern home,2.220446049250313e-16
+ground floor,2.220446049250313e-16
+main,2.220446049250313e-16
+ground,2.220446049250313e-16
+garden,2.220446049250313e-16
+gated community,2.220446049250313e-16
+lounge fitted,2.220446049250313e-16
+lounge kitchen,2.220446049250313e-16
+great potential,2.220446049250313e-16
+greendale,2.220446049250313e-16
+greystone park,2.220446049250313e-16
+greystone,2.220446049250313e-16
+solid bedroom,2.220446049250313e-16
+looking,2.220446049250313e-16
+blend,2.220446049250313e-16
+blend comfort,2.220446049250313e-16
+sought borrowdale,2.220446049250313e-16
+bedrooms lounge,2.220446049250313e-16
+sitting generous,2.220446049250313e-16
+magnificent,2.220446049250313e-16
+growing,2.220446049250313e-16
+main ensuite,2.220446049250313e-16
+guest,2.220446049250313e-16
+harare drive,2.220446049250313e-16
+bedrooms built,2.220446049250313e-16
+located sought,2.220446049250313e-16
+kitchen separate,2.220446049250313e-16
+including,2.220446049250313e-16
+landscaped,2.220446049250313e-16
+land size,2.220446049250313e-16
+water,2.220446049250313e-16
+walk closet,2.220446049250313e-16
+views,2.220446049250313e-16
+value,2.220446049250313e-16
+4beds,2.220446049250313e-16
+450 m²,2.220446049250313e-16
+impressive,2.220446049250313e-16
+000sqm,2.220446049250313e-16
+400,2.220446049250313e-16
+450,2.220446049250313e-16
+sought suburb,2.220446049250313e-16
+kitchen pantry,2.220446049250313e-16
+strategically,2.220446049250313e-16
+story,2.220446049250313e-16
+home sale,2.220446049250313e-16
+study,2.220446049250313e-16
+away,2.220446049250313e-16
+storey residence,2.220446049250313e-16
+asking price,2.220446049250313e-16
+incomplete house,2.220446049250313e-16
+300,2.220446049250313e-16
+200sqm,2.220446049250313e-16
+200,2.220446049250313e-16
+zimre park,2.220446049250313e-16
+generous,1.1102230246251565e-16
+usd,1.1102230246251565e-16
+norton,1.1102230246251565e-16
+park,1.1102230246251565e-16
+000,1.1102230246251565e-16
+glen,1.1102230246251565e-16
+crowhill,1.1102230246251565e-16
+convenience,1.1102230246251565e-16
+complete,1.1102230246251565e-16
+boasts,1.1102230246251565e-16
+single storey,1.1102230246251565e-16
+spacious bedroom,1.1102230246251565e-16
+sought,1.1102230246251565e-16
+ideal,1.1102230246251565e-16
+walk,1.1102230246251565e-16
+toilet,1.1102230246251565e-16
+west substantial,0.0
+unique,0.0
+unfinished,0.0
+tynwald harare,0.0
+tynwald,0.0
+tub,0.0
+touches,0.0
+toilets,0.0
+toilet lounge,0.0
+150,0.0
+hillside,0.0
+hills,0.0
+highlands,0.0
+high,0.0
+helensvale,0.0
+house spacious,0.0
+house sale,0.0
+house main,0.0
+house located,0.0
+house forsale,0.0
+house designed,0.0
+house boasts,0.0
+home sitting,0.0
+home sits,0.0
+investor,0.0
+investment,0.0
+located harare,0.0
+located close,0.0
+living harare,0.0
+living,0.0
+lies,0.0
+level home,0.0
+leafy,0.0
+large,0.0
+knowe,0.0
+kitchen dining,0.0
+key features,0.0
+key,0.0
+home prime,0.0
+home comprising,0.0
+home built,0.0
+low,0.0
+lounges dining,0.0
+lockup garage,0.0
+heights phase,0.0
+heart harare,0.0
+hatfield property,0.0
+hatfield house,0.0
+harare south,0.0
+harare sought,0.0
+harare north,0.0
+harare east,0.0
+growing family,0.0
+lockup,0.0
+lock garage,0.0
+located suburb,0.0
+located heart,0.0
+mainway,0.0
+maintained family,0.0
+main en,0.0
+machel,0.0
+mabvazuva,0.0
+grounds,0.0
+grange,0.0
+grand,0.0
+golf estate,0.0
+golf,0.0
+golding properties,0.0
+golding,0.0
+luxury living,0.0
+luxury home,0.0
+lush,0.0
+low density,0.0
+massive,0.0
+mashonaland,0.0
+manyame,0.0
+mansion,0.0
+mandate,0.0
+gletwin park,0.0
+glenara,0.0
+glaudina,0.0
+geyser,0.0
+kitchen bathroom,0.0
+gardens,0.0
+making,0.0
+major road,0.0
+major,0.0
+mainway meadows,0.0
+metres,0.0
+furnished,0.0
+fully furnished,0.0
+forsale,0.0
+following,0.0
+floors,0.0
+flat,0.0
+fitted,0.0
+finishing touches,0.0
+finishes,0.0
+meets,0.0
+meadows,0.0
+mature,0.0
+masterpiece,0.0
+master bedroom,0.0
+master,0.0
+new mandate,0.0
+neighbourhood,0.0
+neighborhood,0.0
+negotiable,0.0
+neg,0.0
+finished,0.0
+featuring bedrooms,0.0
+features spacious,0.0
+family residence,0.0
+family estate,0.0
+family,0.0
+extra,0.0
+exceptionally,0.0
+m²,0.0
+modern living,0.0
+modern convenience,0.0
+exceptional property,0.0
+exceptional family,0.0
+exceptional bedroom,0.0
+exceptional,0.0
+excellent potential,0.0
+excellent opportunity,0.0
+excellent investment,0.0
+estate,0.0
+entrance,0.0
+ensuite lounge,0.0
+ensuite fitted,0.0
+ensuite,0.0
+north bedrooms,0.0
+new parliament,0.0
+new market,0.0
+pam golding,0.0
+pam,0.0
+outstanding,0.0
+elegance,0.0
+electric,0.0
+dream home,0.0
+dream,0.0
+double story,0.0
+double lock,0.0
+old,0.0
+office,0.0
+offers comfortable,0.0
+offers bedrooms,0.0
+offering space,0.0
+offering,0.0
+pool,0.0
+plus,0.0
+plot,0.0
+plan kitchen,0.0
+plan dining,0.0
+directly opposite,0.0
+directly,0.0
+dining fitted,0.0
+dining area,0.0
+developing,0.0
+developed,0.0
+perfect families,0.0
+perfect,0.0
+peaceful,0.0
+parliament,0.0
+park incomplete,0.0
+project,0.0
+prime,0.0
+price usd,0.0
+prestigious suburb,0.0
+prestigious secure,0.0
+density,0.0
+delightful,0.0
+deed,0.0
+cyber city,0.0
+cyber,0.0
+currently,0.0
+crowhill views,0.0
+incredible,0.0
+prestigious,0.0
+presents exceptional,0.0
+potential,0.0
+proud present,0.0
+proud,0.0
+property sitting,0.0
+conveniently,0.0
+toilet bathroom,0.0
+contained,0.0
+comprising spacious,0.0
+comprising bedrooms,0.0
+toilet bath,0.0
+compact,0.0
+commercial residential,0.0
+commercial,0.0
+property presents,0.0
+property offers,0.0
+property boasts,0.0
+properties,0.0
+residence sits,0.0
+commanding,0.0
+comfortable living,0.0
+comfort privacy,0.0
+comfort convenience,0.0
+combination,0.0
+cold comfort,0.0
+cold,0.0
+cluster,0.0
+residence offers,0.0
+red,0.0
+real,0.0
+ready finishing,0.0
+rare,0.0
+quiet,0.0
+proximity,0.0
+secure bedroom,0.0
+scullery,0.0
+sandton phase,0.0
+samora machel,0.0
+samora,0.0
+sale sandton,0.0
+sale incomplete,0.0
+sale crowhill,0.0
+sale bedrooms,0.0
+ruwa,0.0
+roomed cottage,0.0
+room,0.0
+roads,0.0
+ridge,0.0
+retreat,0.0
+residential commercial,0.0
+separate dining,0.0
+separate bathroom,0.0
+separate,0.0
+self sufficiency,0.0
+self contained,0.0
+clean,0.0
+chitungwiza unit,0.0
+chisipite,0.0
+ceiling,0.0
+buyers,0.0
+buyer,0.0
+busy,0.0
+built space,0.0
+seen,0.0
+seeking,0.0
+secure gated,0.0
+shell ready,0.0
+shawasha hills,0.0
+shawasha,0.0
+built house,0.0
+built footprint,0.0
+brooke golf,0.0
+borrowdale west,0.0
+borrowdale harare,0.0
+boasts spacious,0.0
+3beds,0.0
+blends,0.0
+setting,0.0
+set sought,0.0
+set secure,0.0
+seperate bath,0.0
+separate toilet,0.0
+solar borehole,0.0
+sleek,0.0
+situated sought,0.0
+blend space,0.0
+blend modern,0.0
+big,0.0
+beds mes,0.0
+beds main,0.0
+beds house,0.0
+bedrooms separate,0.0
+bedrooms including,0.0
+bedrooms ensuite,0.0
+sits generous,0.0
+10,0.0
+shower,0.0
+shops,0.0
+spacious property,0.0
+350,0.0
+space security,0.0
+space comfort,0.0
+bedroomed cottage,0.0
+bedroom residence,0.0
+bedroom cottage,0.0
+bedroom bathroom,0.0
+bedroom,0.0
+south,0.0
+000 negotiable,0.0
+solid investment,0.0
+solid home,0.0
+solid family,0.0
+solid bedroomed,0.0
+solar geyser,0.0
+stand sought,0.0
+stand property,0.0
+stand generous,0.0
+stand comfortable,0.0
+beautifully landscaped,0.0
+beautiful family,0.0
+beautiful,0.0
+bathrooms,0.0
+bathroom property,0.0
+bathroom home,0.0
+bathroom family,0.0
+bath family,0.0
+bath,0.0
+square metres,0.0
+sqms,0.0
+sprawling,0.0
+stunning bedroom,0.0
+stunning,0.0
+strategically positioned,0.0
+strategically located,0.0
+strategic,0.0
+avenue,0.0
+available sale,0.0
+ashdown park,0.0
+ashdown,0.0
+appointed property,0.0
+appointed,0.0
+alexandra park,0.0
+alexandra,0.0
+step comfort,0.0
+starter home,0.0
+starter,0.0
+thoughtfully,0.0
+taste,0.0
+tank,0.0
+swimming pool,0.0
+swimming,0.0
+sunridge,0.0
+suite walk,0.0
+suitable commercial,0.0
+suitable,0.0
+sufficiency,0.0
+suburb new,0.0
+suburb glen,0.0
+stylish,0.0
+style,0.0
+stunning property,0.0
+stunning double,0.0
+1000sqm,0.0
+including main,0.0
+immaculate,0.0
+ideally located,0.0
+ideally,0.0
+wing,0.0
+welcome,0.0
+wardrobes,0.0
+westgate shopping,0.0
+vibrant,0.0
+verandah,0.0
+veranda,0.0
+valley,0.0
+used,0.0
+400 m²,0.0
+300 m²,0.0
+200 m²,0.0
+000 stand,0.0
+title deed,0.0
+additional,0.0
+access,0.0
+90,0.0
+600sqm,0.0
+600 m²,0.0
+600,0.0
+5kv,0.0
+550,0.0
+500 m²,0.0
+4beds main,0.0
+title,0.0
+tiled,0.0
+thoughtfully designed,0.0

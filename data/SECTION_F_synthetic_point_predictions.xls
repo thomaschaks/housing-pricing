@@ -1,0 +1,3 @@
+identifier,suburb,area,bedrooms,bathrooms,floor_size_m2,stand_size_m2,title_deeds_flag,cession_flag,predicted_log_price,predicted_price
+SYNTH_A_MADOKERO,Madokero,Harare West,4,2,,300,1,0,11.46529987511765,95349.07168541319
+SYNTH_B_MABVAZUVA,Mabvazuva,Ruwa,4,2,,300,0,1,11.458535398549643,94706.26171186524

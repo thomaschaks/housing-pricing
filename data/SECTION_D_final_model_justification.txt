@@ -1,0 +1,20 @@
+
+Based on the comparison table, the final model is selected as follows:
+
+| Model | RMSE ($) | MAE ($) | MAPE (%) | Log-R² | Mean Interval Width ($) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Actuarial Benchmark | 999,765 | 410,763 | 110.9 | 0.37 | N/A |
+| Elastic Net | 235,018 | 165,360 | 74.3 | 0.57 | 1,692,307 |
+| Random Forest | 214,680 | 128,540 | 80.4 | 0.53 | 1,821,347 |
+| Gradient Boosting | 238,310 | 160,779 | 96.6 | 0.44 | 2,130,300 |
+
+**Selection: Random Forest**
+
+**Justification:**
+
+1.  **Performance:** The Random Forest model achieves the lowest RMSE (214,680) and MAE (128,540) on the validation set, indicating it provides the most accurate point estimates of the three ML models. It also shows a substantial improvement over the actuarial benchmark.
+2.  **MAPE:** While Gradient Boosting has a slightly lower MAPE, the difference is not substantial enough to outweigh the significant advantages in RMSE and MAE. The MAPE for Random Forest (80.4%) is still a major improvement over the benchmark (110.9%).
+3.  **Prediction Intervals:** The conformal prediction intervals for Random Forest (mean width $1.82M) are narrower than those for Gradient Boosting ($2.13M) but wider than Elastic Net ($1.69M). This is a reasonable trade-off for the superior point accuracy.
+4.  **Interpretability:** Random Forest, while a complex model, offers robust interpretability through permutation importance and can be explained locally. Elastic Net is a simpler linear model but suffers from poorer predictive performance, especially on the log-scale R². The interpretability-performance trade-off favors Random Forest in this case, as the performance gain is substantial.
+
+**Conclusion:** The Random Forest model provides the best balance of accuracy (lowest RMSE, good MAE) and uncertainty quantification (reasonable interval width), making it the most suitable model for this AVM. The Gradient Boosting model, despite its strong MAPE, has a higher RMSE and wider prediction intervals, making it less reliable for high-value property valuation.

@@ -1,0 +1,27 @@
+feature_name,source,definition,construction_method
+paint_flag,Text,Indicates if the description mentions 'painted' or 'painting'.,Regex on free-text description
+unpainted_flag,Text,Indicates if the description explicitly mentions 'unpainted' or 'needs paint'.,Regex on free-text description
+paving_flag,Text,"Indicates if the description mentions 'paved', 'paving', or 'driveway'.",Regex on free-text description
+walling_security_flag,Text,"Indicates if the description mentions 'walled', 'gated', 'fenced', or 'security'.",Regex on free-text description
+ceiling_flag,Text,Indicates if the description mentions 'ceiling' or 'ceilings'.,Regex on free-text description
+no_ceiling_flag,Text,Indicates if the description explicitly mentions 'no ceiling' or 'without ceiling'.,Regex on free-text description
+kitchen_fitted_flag,Text,Indicates if the description mentions a 'fitted kitchen' or 'modern kitchen'.,Regex on free-text description
+kitchen_unfitted_flag,Text,Indicates if the description explicitly mentions an 'unfitted kitchen'.,Regex on free-text description
+borehole_flag,Text,Indicates if the description mentions a 'borehole'.,Regex on free-text description
+water_tank_flag,Text,Indicates if the description mentions a 'water tank' or 'water storage'.,Regex on free-text description
+solar_flag,Text,"Indicates if the description mentions 'solar', 'solar geyser', or 'inverter'.",Regex on free-text description
+ensuite_flag,Text,Indicates if the description mentions 'ensuite' or 'en-suite'.,Regex on free-text description
+incomplete_flag,Text,"Indicates if the description mentions 'incomplete', 'unfinished', 'shell', or 'wall plate'.",Regex on free-text description
+tiled_floor_flag,Text,Indicates if the description mentions 'tiled' or 'tiles'.,Regex on free-text description
+bare_floor_flag,Text,"Indicates if the description mentions 'bare cement', 'screed', or 'bare floor'.",Regex on free-text description
+built_in_flag,Text,Indicates if the description mentions 'built-in' cupboards or 'BICs'.,Regex on free-text description
+title_deeds_flag,Text,Indicates if the description mentions 'title deeds' or 'deeds'.,Regex on free-text description
+cession_flag,Text,Indicates if the description mentions 'cession'.,Regex on free-text description
+visual_paint_score,Image,CLIP model score for a 'painted finished wall'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_paving_score,Image,CLIP model score for a 'paved driveway or yard'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_kitchen_score,Image,CLIP model score for a 'modern fitted kitchen'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_ceiling_score,Image,CLIP model score for a 'finished ceiling'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_floor_score,Image,CLIP model score for a 'tiled finished floor'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_security_score,Image,CLIP model score for 'walls and a security gate'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_solar_score,Image,CLIP model score for 'solar panels or a solar power system'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts
+visual_completion_score,Image,CLIP model score for a 'completed finished residential house'. Higher = more likely.,CLIP-ViT-B/32 similarity between image and positive/negative prompts

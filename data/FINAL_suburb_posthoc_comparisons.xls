@@ -1,0 +1,1082 @@
+suburb_1,suburb_2,U_statistic,raw_p_value,holm_p_value
+Borrowdale,Sandton Park,120.0,8.653862201200878e-05,0.09354825039498149
+Chitungwiza,Pomona,0.0,0.00010283833813245579,0.11106540518305225
+Greystone Park,Sandton Park,72.0,0.00010773540185304891,0.11624649859943978
+Mt Pleasant Heights,Norton,63.0,0.00017482517482517483,0.18846153846153846
+Norton,Pomona,0.0,0.00017482517482517483,0.18846153846153846
+Mabvazuva,Norton,63.0,0.00017482517482517483,0.18846153846153846
+Borrowdale,Chitungwiza,100.0,0.0001806347208075351,0.19418232486810022
+Chitungwiza,Gletwin Park,0.0,0.00018165114609146497,0.19509333090223338
+Chitungwiza,Mabvazuva,1.0,0.00020567667626491157,0.2206910736322501
+Chitungwiza,Greystone Park,0.0,0.00024975024975024975,0.2677322677322677
+Borrowdale,Zimre Park,90.0,0.0002745501431730542,0.294043203338341
+Borrowdale,Crowhill Views,90.0,0.000276259150885342,0.29559729144731595
+Borrowdale,Norton,90.0,0.000276259150885342,0.29559729144731595
+Pomona,Sandton Park,81.0,0.0002778439310947051,0.296737318409145
+Gletwin Park,Norton,90.0,0.0002779758535378231,0.296737318409145
+Crowhill Views,Pomona,1.0,0.00034965034965034965,0.37272727272727274
+Gletwin Park,Zimre Park,89.0,0.0003781519052050132,0.402731779043339
+Greystone Park,Norton,54.0,0.0003996003996003996,0.4251748251748252
+Crowhill Views,Greystone Park,0.0,0.0003996003996003996,0.4251748251748252
+Borrowdale,Hatfield,122.0,0.00045538468123694644,0.48361853147363715
+Gletwin Park,Sandton Park,113.0,0.0005308563431881375,0.563238580122614
+Chitungwiza,Shawasha Hills,0.0,0.000666000666000666,0.7059607059607059
+Carrick Creagh,Chitungwiza,50.0,0.000666000666000666,0.7059607059607059
+Chitungwiza,Mt Pleasant Heights,0.5,0.0008998674204943788,0.9520597308830528
+Crowhill Views,Gletwin Park,4.0,0.0009290647398769823,0.9820214300499703
+Norton,Shawasha Hills,0.0,0.000999000999000999,1.0
+Carrick Creagh,Norton,45.0,0.000999000999000999,1.0
+Borrowdale,Mabvazuva,69.0,0.001063074582342085,1.0
+Quinnington,Sandton Park,48.0,0.001098901098901099,1.0
+Avondale,Sandton Park,48.0,0.001098901098901099,1.0
+Sandton Park,Shawasha Hills,2.0,0.001292824822236587,1.0
+Greystone Park,Hatfield,73.0,0.0014005602240896356,1.0
+Pomona,Zimre Park,62.0,0.0014835906789578983,1.0
+Borrowdale,Gletwin Park,92.0,0.0016857381150136568,1.0
+Greystone Park,Zimre Park,54.0,0.001772936866096827,1.0
+Chisipite,Sandton Park,60.0,0.0018615198157425272,1.0
+Borrowdale,Westgate,59.0,0.0019627274581480183,1.0
+Avondale,Chitungwiza,40.0,0.001998001998001998,1.0
+Chitungwiza,Quinnington,0.0,0.001998001998001998,1.0
+Chitungwiza,The Grange,0.0,0.001998001998001998,1.0
+Crowhill Views,Shawasha Hills,1.0,0.001998001998001998,1.0
+Chitungwiza,Hillside,0.0,0.001998001998001998,1.0
+Mabvazuva,Zimre Park,61.0,0.002126688115032219,1.0
+Chitungwiza,Glen Lorne,9.0,0.0022022199424970783,1.0
+Mainway Meadows,Pomona,0.0,0.0025252525252525255,1.0
+Borrowdale,Tynwald,50.0,0.0026471109662068656,1.0
+Borrowdale,Marlborough,50.0,0.0026471109662068656,1.0
+Borrowdale,Mainway Meadows,50.0,0.0026471109662068656,1.0
+Borrowdale,Glaudina,50.0,0.0026471109662068656,1.0
+Chitungwiza,Mount Pleasant Heights,2.0,0.002664002664002664,1.0
+Chisipite,Chitungwiza,50.0,0.002670623021834181,1.0
+Norton,Quinnington,0.0,0.002797202797202797,1.0
+Avondale,Norton,36.0,0.002797202797202797,1.0
+Crowhill Views,Quinnington,0.0,0.002797202797202797,1.0
+Avondale,Crowhill Views,36.0,0.002797202797202797,1.0
+Norton,The Grange,0.0,0.002797202797202797,1.0
+Hillside,Norton,36.0,0.002797202797202797,1.0
+Borrowdale,Waterfalls,74.0,0.0028282695672795363,1.0
+Crowhill Views,Glen Lorne,8.0,0.0028804846690270907,1.0
+Glen Lorne,Norton,82.0,0.0028804846690270907,1.0
+Mt Pleasant Heights,Zimre Park,60.0,0.003016848029403342,1.0
+Chisipite,Zimre Park,45.0,0.003284225185650099,1.0
+Chisipite,Norton,45.0,0.00331872366133435,1.0
+Shawasha Hills,Zimre Park,45.0,0.00331872366133435,1.0
+Chisipite,Crowhill Views,45.0,0.00331872366133435,1.0
+Crowhill Views,Mt Pleasant Heights,5.0,0.003321678321678322,1.0
+Crowhill Views,Mabvazuva,5.0,0.003321678321678322,1.0
+Glen Lorne,Sandton Park,105.0,0.0033436220846027958,1.0
+Borrowdale,Knowe,49.0,0.0039352769635846345,1.0
+Mount Pleasant Heights,Norton,43.0,0.003996003996003996,1.0
+Marlborough,Norton,43.0,0.003996003996003996,1.0
+Greystone Park,Marlborough,30.0,0.004329004329004329,1.0
+Greystone Park,Mainway Meadows,30.0,0.004329004329004329,1.0
+Greystone Park,Tynwald,30.0,0.004329004329004329,1.0
+Glaudina,Greystone Park,0.0,0.004329004329004329,1.0
+Greystone Park,Mabvazuva,40.0,0.004662004662004662,1.0
+Chitungwiza,Marlborough,3.0,0.004662004662004662,1.0
+Crowhill Views,Mount Pleasant,8.0,0.004718198728115028,1.0
+Gletwin Park,Mainway Meadows,48.5,0.004773158857506367,1.0
+Chitungwiza,Mount Pleasant,10.0,0.004848762721678938,1.0
+Carrick Creagh,Zimre Park,44.0,0.0050616797460323205,1.0
+Mount Pleasant Heights,Zimre Park,44.0,0.0050616797460323205,1.0
+Mabvazuva,Sandton Park,74.0,0.00523934270064301,1.0
+Arlington,Norton,35.0,0.005594405594405594,1.0
+Chisipite,Mabvazuva,35.0,0.005681256130682489,1.0
+Chisipite,Gletwin Park,48.0,0.005769352015604625,1.0
+Mount Pleasant,Norton,72.0,0.006193318174044277,1.0
+Glen Lorne,Zimre Park,79.0,0.006210338724243881,1.0
+Hatfield,Pomona,12.0,0.006346749226006192,1.0
+Hillside,Zimre Park,36.0,0.006850503187371088,1.0
+Quinnington,Zimre Park,36.0,0.006850503187371088,1.0
+Avondale,Zimre Park,36.0,0.006850503187371088,1.0
+Crowhill Views,Mount Pleasant Heights,3.0,0.006993006993006993,1.0
+Mt Pleasant Heights,Sandton Park,73.0,0.007184250218305946,1.0
+Borrowdale,Mt Pleasant Heights,63.0,0.007209260623820498,1.0
+Hillside,Sandton Park,46.5,0.007588384474435017,1.0
+Eastlea,Norton,49.0,0.007592407592407592,1.0
+Chisipite,Hatfield,60.0,0.0077484182046287185,1.0
+Chitungwiza,Helensvale,5.0,0.007829059940599403,1.0
+Mainway Meadows,Shawasha Hills,0.0,0.007936507936507936,1.0
+Crowhill Views,Helensvale,4.0,0.007953884130592602,1.0
+Chisipite,Westgate,30.0,0.007969413024121784,1.0
+Alexandra Park,Chitungwiza,46.0,0.007992007992007992,1.0
+Avondale West,Chitungwiza,38.0,0.007992007992007992,1.0
+Arlington,Chitungwiza,38.0,0.007992007992007992,1.0
+Borrowdale,Sunridge,47.0,0.008341717997787474,1.0
+Chitungwiza,Hatfield,22.0,0.008395449977314264,1.0
+Greystone Park,Westgate,34.0,0.008658008658008658,1.0
+Hogerty Hill,Norton,27.0,0.00909090909090909,1.0
+Haydon Park,Norton,27.0,0.00909090909090909,1.0
+Hatfield,Norton,98.0,0.009205026208950867,1.0
+Carrick Creagh,Crowhill Views,42.5,0.009244919539552246,1.0
+Mount Pleasant Heights,Sandton Park,54.0,0.009372979961215255,1.0
+Mount Pleasant,Sandton Park,91.0,0.009488247828076448,1.0
+Chisipite,Waterfalls,38.0,0.009893904571874662,1.0
+Avondale,Hatfield,48.0,0.010084033613445377,1.0
+Glaudina,Pomona,2.0,0.010101010101010102,1.0
+Mount Pleasant,Zimre Park,70.0,0.010404587363529094,1.0
+The Grange,Zimre Park,35.0,0.010787449254670366,1.0
+Avondale West,Zimre Park,35.0,0.010787449254670366,1.0
+Avondale West,Norton,34.0,0.011188811188811189,1.0
+Crowhill Views,Hillside,2.0,0.011188811188811189,1.0
+Helensvale,Norton,49.0,0.011210603436491431,1.0
+Carrick Creagh,Sandton Park,54.5,0.011361673024717751,1.0
+Chisipite,Mainway Meadows,25.0,0.011925233593017602,1.0
+Chisipite,Knowe,25.0,0.011925233593017602,1.0
+Chisipite,Glaudina,25.0,0.011925233593017602,1.0
+Chisipite,Tynwald,25.0,0.011925233593017602,1.0
+Chisipite,Marlborough,25.0,0.011925233593017602,1.0
+Norton,Tynwald,4.0,0.011988011988011988,1.0
+Alexandra Park,Crowhill Views,41.0,0.011988011988011988,1.0
+Borrowdale Brooke,Crowhill Views,48.0,0.011988011988011988,1.0
+Alexandra Park,Norton,41.0,0.011988011988011988,1.0
+Avondale,Mabvazuva,27.0,0.012121212121212121,1.0
+Borrowdale,Fairview,38.0,0.012825255684392021,1.0
+Helensvale,Sandton Park,63.0,0.013019550530202349,1.0
+Crowhill Views,The Grange,1.5,0.013426487780880333,1.0
+Marlborough,Zimre Park,41.5,0.013431973910833032,1.0
+Alexandra Park,Sandton Park,53.0,0.013574660633484163,1.0
+Borrowdale,Rockview,30.0,0.013982658486270536,1.0
+Borrowdale,Zengeza,30.0,0.013982658486270536,1.0
+Borrowdale,Manyame Park,30.0,0.013982658486270536,1.0
+Chitungwiza,Haydon Park,1.0,0.013986013986013986,1.0
+Gletwin Park,Zengeza,30.0,0.01411509271795309,1.0
+Sandton Park,The Grange,3.5,0.015218316111501606,1.0
+Mainway Meadows,Quinnington,0.0,0.015873015873015872,1.0
+Avondale,Mainway Meadows,20.0,0.015873015873015872,1.0
+Avondale,Tynwald,20.0,0.015873015873015872,1.0
+Avondale,Glaudina,20.0,0.015873015873015872,1.0
+Hillside,Mainway Meadows,20.0,0.015873015873015872,1.0
+Avondale,Marlborough,20.0,0.015873015873015872,1.0
+Alexandra Park,Zimre Park,41.0,0.016277126212810463,1.0
+Borrowdale,Carrick Creagh,45.0,0.01644053102601842,1.0
+Arlington,Zimre Park,34.0,0.016620636617609097,1.0
+Manyame Park,Pomona,0.0,0.016666666666666666,1.0
+Mabvazuva,Zengeza,21.0,0.016666666666666666,1.0
+Pomona,Zengeza,21.0,0.016666666666666666,1.0
+Mt Pleasant Heights,Zengeza,21.0,0.016666666666666666,1.0
+Borrowdale,Cold Comfort,29.5,0.01748987456401009,1.0
+Crowhill Views,Eastlea,7.0,0.017582417582417582,1.0
+Gletwin Park,Manyame Park,29.5,0.017646174162466787,1.0
+Pomona,Tynwald,32.0,0.01767676767676768,1.0
+Knowe,Pomona,3.0,0.01767676767676768,1.0
+Mainway Meadows,Mt Pleasant Heights,3.0,0.01767676767676768,1.0
+Marlborough,Pomona,3.0,0.01767676767676768,1.0
+Chitungwiza,Hogerty Hill,0.5,0.017803042772654855,1.0
+Borrowdale Brooke,Sandton Park,61.0,0.018207282913165267,1.0
+Norton,Waterfalls,11.0,0.018326256539845,1.0
+Avondale,Westgate,23.0,0.01904761904761905,1.0
+Chitungwiza,Tynwald,6.0,0.019314019314019312,1.0
+Hatfield,Zimre Park,94.0,0.019392845499042796,1.0
+Chisipite,Fairview,20.0,0.01945103333136247,1.0
+Avondale West,Crowhill Views,33.0,0.019580419580419582,1.0
+Avondale West,Sandton Park,43.0,0.019780219780219783,1.0
+Helensvale,Zimre Park,47.0,0.021323230367096407,1.0
+Pomona,Westgate,37.0,0.022144522144522144,1.0
+Chitungwiza,Eastlea,9.0,0.02247752247752248,1.0
+Hatfield,Quinnington,6.0,0.0226890756302521,1.0
+Crowhill Views,Hatfield,24.0,0.023180056414889752,1.0
+Arlington,Borrowdale,3.5,0.023193123523031357,1.0
+Tynwald,Zimre Park,40.0,0.02325849912163,1.0
+Chitungwiza,Waterfalls,14.0,0.023396061943870537,1.0
+Glen Lorne,Hatfield,102.0,0.023596640649822073,1.0
+Greystone Park,Manyame Park,18.0,0.023809523809523808,1.0
+Westgate,Zengeza,18.0,0.023809523809523808,1.0
+Greystone Park,Zengeza,18.0,0.023809523809523808,1.0
+Greystone Park,Rockview,18.0,0.023809523809523808,1.0
+Mabvazuva,Quinnington,2.0,0.024242424242424242,1.0
+Borrowdale Brooke,Norton,46.0,0.025574425574425574,1.0
+Mabvazuva,Pomona,7.0,0.026223776223776224,1.0
+Haydon Park,Zimre Park,26.0,0.02623671004959466,1.0
+Hogerty Hill,Zimre Park,26.0,0.02623671004959466,1.0
+Borrowdale,Shawasha Hills,43.5,0.027072586666326483,1.0
+Carrick Creagh,Mainway Meadows,23.5,0.027802962434649296,1.0
+Glen Lorne,Zengeza,28.0,0.027972027972027972,1.0
+Avondale,Gletwin Park,36.0,0.028203518235042094,1.0
+Gletwin Park,Quinnington,4.0,0.028203518235042094,1.0
+Eastlea,Zimre Park,46.0,0.029095131790125652,1.0
+Crowhill Views,Waterfalls,13.0,0.030281293470426608,1.0
+Greystone Park,Knowe,27.0,0.030303030303030304,1.0
+Knowe,Mt Pleasant Heights,4.0,0.030303030303030304,1.0
+Mabvazuva,Mainway Meadows,31.0,0.030303030303030304,1.0
+Chitungwiza,Westgate,10.0,0.031218781218781223,1.0
+Borrowdale Brooke,Chitungwiza,50.0,0.031218781218781223,1.0
+Quinnington,Tynwald,19.0,0.031746031746031744,1.0
+Mainway Meadows,Mount Pleasant Heights,2.0,0.031746031746031744,1.0
+Glaudina,Quinnington,1.0,0.031746031746031744,1.0
+Quinnington,Sunridge,19.0,0.031746031746031744,1.0
+Avondale,Sunridge,19.0,0.031746031746031744,1.0
+Avondale,Knowe,19.0,0.031746031746031744,1.0
+Knowe,The Grange,1.0,0.031746031746031744,1.0
+Knowe,Quinnington,1.0,0.031746031746031744,1.0
+Marlborough,Quinnington,1.0,0.031746031746031744,1.0
+Pomona,Rockview,20.0,0.03333333333333333,1.0
+Manyame Park,Mt Pleasant Heights,1.0,0.03333333333333333,1.0
+Crowhill Views,Greendale,4.0,0.033566433566433566,1.0
+Gletwin Park,Greystone Park,10.0,0.03429135699015665,1.0
+Chisipite,Mt Pleasant Heights,31.0,0.03443887539411729,1.0
+Shawasha Hills,Zengeza,15.0,0.03571428571428571,1.0
+Carrick Creagh,Zengeza,15.0,0.03571428571428571,1.0
+Mount Pleasant Heights,Zengeza,15.0,0.03571428571428571,1.0
+Manyame Park,Shawasha Hills,0.0,0.03571428571428571,1.0
+Marlborough,Zengeza,15.0,0.03571428571428571,1.0
+Tynwald,Zengeza,15.0,0.03571428571428571,1.0
+Knowe,Zengeza,15.0,0.03571428571428571,1.0
+Alexandra Park,Zengeza,15.0,0.03571428571428571,1.0
+Chisipite,Hogerty Hill,15.0,0.035770082232490764,1.0
+Chisipite,Cold Comfort,15.0,0.035770082232490764,1.0
+Chisipite,Haydon Park,15.0,0.035770082232490764,1.0
+Chisipite,Manyame Park,15.0,0.035770082232490764,1.0
+Chisipite,Rockview,15.0,0.035770082232490764,1.0
+Chisipite,Zengeza,15.0,0.035770082232490764,1.0
+Norton,Westgate,9.0,0.03596403596403597,1.0
+Mount Pleasant,Zengeza,25.0,0.03636363636363636,1.0
+Quinnington,Westgate,22.0,0.0380952380952381,1.0
+Crowhill Views,Marlborough,6.5,0.03855157857042419,1.0
+Borrowdale Brooke,Zimre Park,45.0,0.038995092518307774,1.0
+Glen Lorne,Mainway Meadows,42.0,0.03996003996003995,1.0
+Glaudina,Glen Lorne,8.0,0.03996003996003995,1.0
+Knowe,Norton,38.0,0.04195804195804195,1.0
+Mt Pleasant Heights,Quinnington,3.0,0.04242424242424242,1.0
+Gletwin Park,Knowe,42.0,0.04311071351849386,1.0
+Borrowdale,Highlands,49.0,0.04447733850642737,1.0
+Hatfield,Mount Pleasant,28.0,0.04514062557215463,1.0
+Glen Lorne,Waterfalls,63.0,0.04547761092322604,1.0
+Pomona,Sunridge,30.0,0.04797979797979798,1.0
+Mainway Meadows,The Grange,1.5,0.04909011632260757,1.0
+Glaudina,Gletwin Park,8.5,0.049634501389731814,1.0
+Greendale,Norton,31.0,0.050349650349650346,1.0
+Arlington,Crowhill Views,31.0,0.050349650349650346,1.0
+Quinnington,Waterfalls,28.0,0.05039433721295146,1.0
+Avondale,Waterfalls,28.0,0.05039433721295146,1.0
+Carrick Creagh,Manyame Park,14.5,0.05122800300616064,1.0
+Borrowdale,Haydon Park,27.0,0.05126949723222051,1.0
+Borrowdale,Hogerty Hill,27.0,0.05126949723222051,1.0
+Waterfalls,Zengeza,22.0,0.0519435022022021,1.0
+Greystone Park,Sunridge,26.0,0.05194805194805195,1.0
+Glen Lorne,Gletwin Park,76.0,0.05381236601214543,1.0
+Helensvale,Mainway Meadows,26.0,0.05468120473251771,1.0
+Glen Lorne,Sunridge,41.0,0.05527805527805527,1.0
+Glen Lorne,Mabvazuva,55.0,0.055327025915261216,1.0
+Marlborough,Shawasha Hills,3.0,0.05555555555555555,1.0
+Mainway Meadows,Marlborough,3.0,0.05555555555555555,1.0
+Knowe,Mount Pleasant Heights,3.0,0.05555555555555555,1.0
+Glaudina,Shawasha Hills,3.0,0.05555555555555555,1.0
+Carrick Creagh,Knowe,22.0,0.05555555555555555,1.0
+Knowe,Shawasha Hills,3.0,0.05555555555555555,1.0
+Glen Lorne,Westgate,48.0,0.05594405594405595,1.0
+Hatfield,Sandton Park,113.5,0.0568951776426403,1.0
+Quinnington,Rockview,12.0,0.05714285714285714,1.0
+Hillside,Zengeza,12.0,0.05714285714285714,1.0
+Avondale,Rockview,12.0,0.05714285714285714,1.0
+Avondale,Manyame Park,12.0,0.05714285714285714,1.0
+Fairview,The Grange,1.0,0.05714285714285714,1.0
+Avondale West,Zengeza,12.0,0.05714285714285714,1.0
+Avondale,Zengeza,12.0,0.05714285714285714,1.0
+Quinnington,Zengeza,12.0,0.05714285714285714,1.0
+Prospect,Zengeza,12.0,0.05714285714285714,1.0
+Arlington,Zengeza,12.0,0.05714285714285714,1.0
+Hatfield,Zengeza,34.0,0.05714285714285714,1.0
+Avondale,Fairview,15.0,0.05714285714285714,1.0
+Fairview,Quinnington,1.0,0.05714285714285714,1.0
+The Grange,Zengeza,12.0,0.05714285714285714,1.0
+Hillside,Manyame Park,12.0,0.05714285714285714,1.0
+Manyame Park,Quinnington,0.0,0.05714285714285714,1.0
+Fairview,Pomona,3.5,0.05820747609423472,1.0
+Avondale,Mt Pleasant Heights,24.5,0.05820747609423472,1.0
+Westgate,Zimre Park,43.5,0.05889259188465741,1.0
+Chisipite,Sunridge,22.0,0.059327060946523506,1.0
+Crowhill Views,Tynwald,8.0,0.05994005994005994,1.0
+Glaudina,Mount Pleasant,8.0,0.05994005994005994,1.0
+Mainway Meadows,Mount Pleasant,8.0,0.05994005994005994,1.0
+Waterfalls,Zimre Park,56.0,0.06028654630453002,1.0
+Hillside,Knowe,18.0,0.06349206349206349,1.0
+Fairview,Mount Pleasant Heights,2.0,0.06349206349206349,1.0
+Avondale West,Mainway Meadows,18.0,0.06349206349206349,1.0
+Glaudina,The Grange,2.0,0.06349206349206349,1.0
+Norton,Rockview,3.0,0.06363636363636363,1.0
+Crowhill Views,Hogerty Hill,3.0,0.06363636363636363,1.0
+Crowhill Views,Haydon Park,3.0,0.06363636363636363,1.0
+The Grange,Westgate,21.0,0.06666666666666667,1.0
+Fairview,Greystone Park,3.0,0.06666666666666667,1.0
+Mabvazuva,Manyame Park,19.0,0.06666666666666667,1.0
+Sandton Park,Waterfalls,24.0,0.06971678568433504,1.0
+Hogerty Hill,Sandton Park,31.0,0.07032967032967033,1.0
+Manyame Park,Mount Pleasant Heights,1.0,0.07142857142857142,1.0
+Manyame Park,Marlborough,1.0,0.07142857142857142,1.0
+Borrowdale,Helensvale,47.0,0.07287109441295277,1.0
+Marlborough,Sandton Park,47.5,0.07296391199528582,1.0
+Manyame Park,The Grange,0.5,0.07446183141740546,1.0
+Fairview,Zengeza,11.5,0.07446183141740546,1.0
+Borrowdale,Mabelreign,26.0,0.0751217939922998,1.0
+Glen Lorne,Tynwald,40.0,0.07525807525807525,1.0
+Glen Lorne,Marlborough,40.0,0.07525807525807525,1.0
+Fairview,Glen Lorne,7.0,0.07592407592407593,1.0
+Chitungwiza,Greendale,7.0,0.07592407592407593,1.0
+Chitungwiza,Rockview,4.0,0.07692307692307693,1.0
+Greendale,Sandton Park,39.0,0.07802197802197802,1.0
+Hatfield,The Grange,10.0,0.07899159663865546,1.0
+Sandton Park,Tynwald,13.0,0.08177117000646413,1.0
+Glaudina,Helensvale,5.0,0.08213856110808998,1.0
+Borrowdale Brooke,Glaudina,25.0,0.08225108225108226,1.0
+Borrowdale Brooke,Mainway Meadows,25.0,0.08225108225108226,1.0
+Mount Pleasant Heights,Westgate,25.0,0.08225108225108226,1.0
+Haydon Park,Sandton Park,30.5,0.08298919486592109,1.0
+Eastlea,Sandton Park,55.0,0.08306399482870072,1.0
+Gletwin Park,Marlborough,39.5,0.0858489937587912,1.0
+Cold Comfort,Pomona,2.5,0.08641632511426989,1.0
+Crowhill Views,Westgate,12.0,0.08791208791208792,1.0
+Mount Pleasant,Westgate,42.0,0.08791208791208792,1.0
+Glen Lorne,Manyame Park,25.5,0.09052493481762919,1.0
+Mabvazuva,Mount Pleasant,15.0,0.09073426573426574,1.0
+Mount Pleasant,Waterfalls,54.0,0.09159521445686027,1.0
+Helensvale,Zengeza,16.0,0.09192498223892326,1.0
+Pomona,Waterfalls,43.0,0.09245994314660773,1.0
+Gletwin Park,Mount Pleasant,24.0,0.09402204495117877,1.0
+Alexandra Park,Hatfield,50.0,0.09453781512605043,1.0
+Knowe,Zimre Park,35.5,0.0948517593168094,1.0
+Shawasha Hills,Sunridge,21.0,0.09523809523809523,1.0
+Cold Comfort,Greystone Park,2.0,0.09523809523809523,1.0
+Alexandra Park,Mainway Meadows,21.0,0.09523809523809523,1.0
+Glaudina,Mount Pleasant Heights,4.0,0.09523809523809523,1.0
+Glen Lorne,Knowe,39.0,0.09923409923409923,1.0
+Cold Comfort,Norton,23.0,0.09999999999999999,1.0
+Rockview,Zengeza,9.0,0.1,1.0
+Hogerty Hill,Zengeza,9.0,0.1,1.0
+Cold Comfort,Zengeza,9.0,0.1,1.0
+Haydon Park,Zengeza,9.0,0.1,1.0
+Manyame Park,Zengeza,9.0,0.1,1.0
+Arlington,Sandton Park,38.0,0.10329670329670329,1.0
+Fairview,Gletwin Park,8.0,0.10349610651099661,1.0
+Hatfield,Helensvale,20.0,0.10453181673556865,1.0
+Greendale,Zimre Park,29.0,0.10471445539631966,1.0
+The Grange,Waterfalls,26.0,0.10602449927906324,1.0
+Glaudina,Mt Pleasant Heights,7.0,0.10606060606060606,1.0
+Knowe,Mabvazuva,7.0,0.10606060606060606,1.0
+Greystone Park,Waterfalls,37.0,0.1061982770099431,1.0
+Gletwin Park,Rockview,25.0,0.10783443436057366,1.0
+Glen Lorne,Mt Pleasant Heights,52.0,0.10880296174413821,1.0
+Mabvazuva,The Grange,5.0,0.10909090909090909,1.0
+Fairview,Mt Pleasant Heights,5.0,0.10909090909090909,1.0
+Glaudina,Hillside,3.0,0.1111111111111111,1.0
+Fairview,Shawasha Hills,3.0,0.1111111111111111,1.0
+The Grange,Tynwald,17.0,0.1111111111111111,1.0
+Arlington,Knowe,17.0,0.1111111111111111,1.0
+Hillside,Marlborough,17.0,0.1111111111111111,1.0
+Avondale,Carrick Creagh,17.0,0.1111111111111111,1.0
+Hillside,Sunridge,17.0,0.1111111111111111,1.0
+Sunridge,The Grange,3.0,0.1111111111111111,1.0
+Carrick Creagh,Quinnington,3.0,0.1111111111111111,1.0
+Mainway Meadows,Norton,35.0,0.11188811188811189,1.0
+Norton,Sunridge,10.0,0.11188811188811189,1.0
+Mount Pleasant,Tynwald,35.0,0.11188811188811189,1.0
+Marlborough,Mount Pleasant,10.0,0.11188811188811189,1.0
+Mount Pleasant,Sunridge,35.0,0.11188811188811189,1.0
+Chitungwiza,Cold Comfort,5.0,0.1118881118881119,1.0
+Crowhill Views,Highlands,13.0,0.1134865134865135,1.0
+Avondale,Haydon Park,11.0,0.11428571428571428,1.0
+Cold Comfort,Quinnington,1.0,0.11428571428571428,1.0
+Avondale,Cold Comfort,11.0,0.11428571428571428,1.0
+Hogerty Hill,Quinnington,1.0,0.11428571428571428,1.0
+Fairview,Hillside,2.0,0.11428571428571428,1.0
+Avondale West,Manyame Park,11.0,0.11428571428571428,1.0
+Avondale,Hogerty Hill,11.0,0.11428571428571428,1.0
+Arlington,Quinnington,2.0,0.11428571428571428,1.0
+Cold Comfort,The Grange,1.0,0.11428571428571428,1.0
+Rockview,The Grange,1.0,0.11428571428571428,1.0
+Haydon Park,Quinnington,1.0,0.11428571428571428,1.0
+Gletwin Park,Helensvale,15.0,0.11524171990719755,1.0
+Hatfield,Mount Pleasant Heights,16.0,0.11718020541549955,1.0
+Hatfield,Shawasha Hills,16.0,0.11718020541549955,1.0
+Avondale West,Borrowdale,8.5,0.11857357058512223,1.0
+Borrowdale,Hillside,31.5,0.11857357058512223,1.0
+Helensvale,Knowe,24.0,0.11984615709682368,1.0
+Helensvale,Marlborough,24.0,0.11984615709682368,1.0
+Helensvale,Sunridge,24.0,0.11984615709682368,1.0
+Helensvale,Tynwald,24.0,0.11984615709682368,1.0
+Gletwin Park,Hatfield,90.5,0.12085357641780416,1.0
+Norton,Prospect,7.5,0.12230818885669476,1.0
+Shawasha Hills,Westgate,24.0,0.12554112554112554,1.0
+Borrowdale Brooke,Knowe,24.0,0.12554112554112554,1.0
+Borrowdale Brooke,Sunridge,24.0,0.12554112554112554,1.0
+Borrowdale Brooke,Marlborough,24.0,0.12554112554112554,1.0
+Borrowdale Brooke,Hatfield,57.0,0.12737726669615215,1.0
+Helensvale,Westgate,28.0,0.12753770929748698,1.0
+Cold Comfort,Glen Lorne,5.5,0.1276657528121118,1.0
+Gletwin Park,Pomona,19.0,0.13013421607299722,1.0
+Borrowdale Brooke,Westgate,28.0,0.13203463203463203,1.0
+Helensvale,Mabvazuva,32.0,0.13308040166544383,1.0
+Borrowdale,Prospect,31.0,0.13669852404043967,1.0
+Helensvale,Waterfalls,36.0,0.13677268740537696,1.0
+Borrowdale Brooke,Waterfalls,36.0,0.1372056597596783,1.0
+Borrowdale Brooke,Mt Pleasant Heights,32.0,0.13752913752913754,1.0
+Greystone Park,Mt Pleasant Heights,32.0,0.13752913752913754,1.0
+Borrowdale Brooke,Mabvazuva,32.0,0.13752913752913754,1.0
+Rockview,Zimre Park,22.0,0.13839529188217517,1.0
+Cold Comfort,Zimre Park,22.0,0.13839529188217517,1.0
+Carrick Creagh,Fairview,16.5,0.1399825237583975,1.0
+Gletwin Park,Sunridge,37.5,0.14093304100788664,1.0
+Borrowdale,Pomona,50.5,0.14176180092479324,1.0
+Gletwin Park,Westgate,44.0,0.14193958020766975,1.0
+Carrick Creagh,Chisipite,5.0,0.14245669739409875,1.0
+Borrowdale,Greystone Park,44.0,0.14252880816093372,1.0
+Borrowdale,Eastlea,44.0,0.14252880816093372,1.0
+Borrowdale Brooke,Gletwin Park,44.0,0.14282314559159495,1.0
+Hogerty Hill,Knowe,13.0,0.14285714285714285,1.0
+Haydon Park,Knowe,13.0,0.14285714285714285,1.0
+Haydon Park,Mainway Meadows,13.0,0.14285714285714285,1.0
+Manyame Park,Tynwald,2.0,0.14285714285714285,1.0
+Alexandra Park,Manyame Park,13.0,0.14285714285714285,1.0
+Mainway Meadows,Zengeza,13.0,0.14285714285714285,1.0
+Carrick Creagh,Rockview,13.0,0.14285714285714285,1.0
+Rockview,Shawasha Hills,2.0,0.14285714285714285,1.0
+Hogerty Hill,Mainway Meadows,13.0,0.14285714285714285,1.0
+Knowe,Mount Pleasant,11.0,0.14685314685314685,1.0
+Glaudina,Norton,34.0,0.14685314685314685,1.0
+Crowhill Views,Sunridge,11.0,0.14685314685314685,1.0
+Fairview,Mount Pleasant,8.0,0.14825174825174825,1.0
+Cold Comfort,Gletwin Park,6.0,0.15022423475752597,1.0
+Sandton Park,Westgate,20.0,0.15050635638870935,1.0
+Alexandra Park,Sunridge,20.0,0.15079365079365079,1.0
+Mount Pleasant Heights,Sunridge,20.0,0.15079365079365079,1.0
+Mount Pleasant Heights,Tynwald,20.0,0.15079365079365079,1.0
+Carrick Creagh,Glaudina,20.0,0.15079365079365079,1.0
+Marlborough,Mount Pleasant Heights,5.0,0.15079365079365079,1.0
+Shawasha Hills,Tynwald,20.0,0.15079365079365079,1.0
+Alexandra Park,Glaudina,20.0,0.15079365079365079,1.0
+Borrowdale,Mount Pleasant,63.0,0.1526814152757613,1.0
+Helensvale,Manyame Park,15.0,0.1538544318136157,1.0
+Gletwin Park,Tynwald,37.0,0.1586236058184476,1.0
+Glen Lorne,Rockview,24.0,0.16083916083916086,1.0
+Arlington,Pomona,6.0,0.16363636363636364,1.0
+Pomona,Prospect,22.0,0.16363636363636364,1.0
+Mount Pleasant Heights,Waterfalls,30.0,0.16374931768207612,1.0
+Chitungwiza,Mainway Meadows,13.0,0.1645021645021645,1.0
+Chitungwiza,Knowe,13.0,0.1645021645021645,1.0
+Chitungwiza,Sunridge,13.0,0.1645021645021645,1.0
+Fairview,Helensvale,5.0,0.16452181748948447,1.0
+Mt Pleasant Heights,Pomona,13.0,0.16491841491841494,1.0
+Greystone Park,Hogerty Hill,15.0,0.16666666666666666,1.0
+Borrowdale Brooke,Zengeza,15.0,0.16666666666666666,1.0
+Greystone Park,Haydon Park,15.0,0.16666666666666666,1.0
+Eastlea,Zengeza,15.0,0.16666666666666666,1.0
+Borrowdale Brooke,Manyame Park,15.0,0.16666666666666666,1.0
+Glaudina,Mabvazuva,8.5,0.1667212516644191,1.0
+Borrowdale Brooke,Fairview,19.0,0.17142857142857143,1.0
+Hillside,Westgate,19.0,0.17142857142857143,1.0
+Arlington,Greystone Park,5.0,0.17142857142857143,1.0
+Hatfield,Mainway Meadows,47.0,0.17343604108309993,1.0
+Carrick Creagh,Hatfield,47.0,0.17343604108309993,1.0
+Mount Pleasant,Mt Pleasant Heights,45.0,0.1737762237762238,1.0
+Helensvale,Mt Pleasant Heights,31.0,0.1741431302176989,1.0
+Borrowdale Brooke,Tynwald,23.0,0.17748917748917747,1.0
+Alexandra Park,Westgate,23.0,0.17748917748917747,1.0
+Carrick Creagh,Westgate,23.0,0.17748917748917747,1.0
+Eastlea,Mainway Meadows,23.0,0.17748917748917747,1.0
+Alexandra Park,Highlands,23.0,0.17748917748917747,1.0
+Eastlea,Knowe,23.0,0.17748917748917747,1.0
+Carrick Creagh,Greystone Park,7.0,0.17748917748917747,1.0
+Carrick Creagh,Glen Lorne,13.5,0.1775220984657251,1.0
+Avondale,Borrowdale,10.0,0.17815246909364868,1.0
+Gletwin Park,Prospect,30.0,0.1786311446433474,1.0
+Mt Pleasant Heights,Westgate,31.0,0.18065268065268064,1.0
+Cold Comfort,Mt Pleasant Heights,4.0,0.18333333333333335,1.0
+Manyame Park,Waterfalls,5.0,0.1835733883210906,1.0
+Chitungwiza,Prospect,10.0,0.18781218781218784,1.0
+Prospect,Zimre Park,27.0,0.18905364879224984,1.0
+Avondale West,Glaudina,16.0,0.19047619047619047,1.0
+Arlington,Mainway Meadows,16.0,0.19047619047619047,1.0
+Hillside,Tynwald,16.0,0.19047619047619047,1.0
+Quinnington,Shawasha Hills,16.0,0.19047619047619047,1.0
+Marlborough,The Grange,4.0,0.19047619047619047,1.0
+Alexandra Park,Fairview,16.0,0.19047619047619047,1.0
+Avondale West,Knowe,16.0,0.19047619047619047,1.0
+Borrowdale,Mount Pleasant Heights,36.0,0.19764688367450167,1.0
+Avondale West,Fairview,13.0,0.2,1.0
+Haydon Park,Manyame Park,8.0,0.2,1.0
+Hogerty Hill,Manyame Park,8.0,0.2,1.0
+Prospect,The Grange,3.0,0.2,1.0
+Arlington,The Grange,3.0,0.2,1.0
+Arlington,Avondale,3.0,0.2,1.0
+Arlington,Fairview,13.0,0.2,1.0
+Avondale West,Hatfield,38.0,0.20168067226890757,1.0
+Greendale,Hatfield,38.0,0.20168067226890757,1.0
+Hillside,Waterfalls,24.0,0.20193980169397174,1.0
+Alexandra Park,Mabvazuva,26.0,0.20202020202020204,1.0
+Cold Comfort,Mount Pleasant,6.0,0.20909090909090908,1.0
+Crowhill Views,Rockview,6.0,0.20909090909090908,1.0
+Manyame Park,Mount Pleasant,6.0,0.20909090909090908,1.0
+Mount Pleasant,Rockview,21.0,0.20909090909090908,1.0
+Cold Comfort,Crowhill Views,21.0,0.20909090909090908,1.0
+Borrowdale,Glen Lorne,67.0,0.21160560249578764,1.0
+Alexandra Park,Waterfalls,29.0,0.21276979625782155,1.0
+Mainway Meadows,Waterfalls,11.0,0.21276979625782155,1.0
+Glen Lorne,Haydon Park,23.0,0.2167832167832168,1.0
+Glen Lorne,Hogerty Hill,23.0,0.2167832167832168,1.0
+Avondale,Shawasha Hills,15.5,0.21874201001089977,1.0
+Glen Lorne,Highlands,42.0,0.2197802197802198,1.0
+Alexandra Park,Gletwin Park,35.5,0.21984597311209053,1.0
+Carrick Creagh,Marlborough,19.0,0.2222222222222222,1.0
+Alexandra Park,Marlborough,19.0,0.2222222222222222,1.0
+Alexandra Park,Knowe,19.0,0.2222222222222222,1.0
+Mainway Meadows,Tynwald,6.0,0.2222222222222222,1.0
+Carrick Creagh,Sunridge,19.0,0.2222222222222222,1.0
+Alexandra Park,Tynwald,19.0,0.2222222222222222,1.0
+Highlands,Norton,38.0,0.22377622377622375,1.0
+Arlington,Manyame Park,10.0,0.22857142857142856,1.0
+Hillside,Mabelreign,10.0,0.22857142857142856,1.0
+Cold Comfort,Hillside,2.0,0.22857142857142856,1.0
+Mabelreign,The Grange,2.0,0.22857142857142856,1.0
+Fairview,Hogerty Hill,2.0,0.22857142857142856,1.0
+Fairview,Haydon Park,2.0,0.22857142857142856,1.0
+Greendale,Zengeza,10.0,0.22857142857142856,1.0
+Avondale West,Rockview,10.0,0.22857142857142856,1.0
+Hillside,Rockview,10.0,0.22857142857142856,1.0
+Sunridge,Zimre Park,32.0,0.2296267621455611,1.0
+Mabvazuva,Prospect,21.0,0.2303030303030303,1.0
+Mt Pleasant Heights,Prospect,21.0,0.2303030303030303,1.0
+Fairview,Mabvazuva,7.0,0.2303030303030303,1.0
+Helensvale,Quinnington,6.0,0.23952554419355576,1.0
+Carrick Creagh,Mount Pleasant,13.0,0.23976023976023977,1.0
+Crowhill Views,Glaudina,13.0,0.23976023976023977,1.0
+Arlington,Glen Lorne,11.0,0.2397602397602398,1.0
+Borrowdale Brooke,Highlands,26.0,0.24025974025974026,1.0
+Cold Comfort,Helensvale,4.0,0.2433045973362562,1.0
+Haydon Park,Helensvale,4.0,0.2433045973362562,1.0
+Helensvale,Rockview,14.0,0.2433045973362562,1.0
+Helensvale,Hogerty Hill,14.0,0.2433045973362562,1.0
+Borrowdale,Chisipite,35.0,0.2433570980058497,1.0
+Hatfield,Hillside,15.0,0.24537815126050422,1.0
+Borrowdale Brooke,Carrick Creagh,22.0,0.24675324675324672,1.0
+Borrowdale Brooke,Shawasha Hills,22.0,0.24675324675324672,1.0
+Eastlea,Glaudina,22.0,0.24675324675324672,1.0
+Sandton Park,Zengeza,26.5,0.2477904250062285,1.0
+Knowe,Marlborough,6.5,0.24915263858192682,1.0
+Glaudina,Hogerty Hill,3.0,0.25,1.0
+Sunridge,Zengeza,12.0,0.25,1.0
+Glaudina,Zengeza,12.0,0.25,1.0
+Cold Comfort,Mount Pleasant Heights,3.0,0.25,1.0
+Mount Pleasant Heights,Rockview,12.0,0.25,1.0
+Carrick Creagh,Cold Comfort,12.0,0.25,1.0
+Cold Comfort,Shawasha Hills,3.0,0.25,1.0
+Alexandra Park,Mabelreign,12.0,0.25,1.0
+Alexandra Park,Cold Comfort,12.0,0.25,1.0
+Alexandra Park,Rockview,12.0,0.25,1.0
+Glen Lorne,Helensvale,41.0,0.2544016203132652,1.0
+Chitungwiza,Glaudina,15.0,0.2544122544122544,1.0
+Glen Lorne,Shawasha Hills,35.0,0.2544122544122544,1.0
+Crowhill Views,Sandton Park,37.5,0.2553544580554338,1.0
+Norton,Sandton Park,37.5,0.2553544580554338,1.0
+Hillside,Mt Pleasant Heights,20.5,0.25575603730406704,1.0
+Gletwin Park,The Grange,11.5,0.2568509259048949,1.0
+Highlands,Hillside,6.0,0.2571428571428571,1.0
+Eastlea,Fairview,18.0,0.2571428571428571,1.0
+Avondale West,Greystone Park,6.0,0.2571428571428571,1.0
+Avondale West,Westgate,18.0,0.2571428571428571,1.0
+Greystone Park,Prospect,18.0,0.2571428571428571,1.0
+Arlington,Borrowdale Brooke,6.0,0.2571428571428571,1.0
+Highlands,Quinnington,6.0,0.2571428571428571,1.0
+Arlington,Mount Pleasant,10.0,0.2601398601398601,1.0
+Eastlea,Manyame Park,14.0,0.26190476190476186,1.0
+Borrowdale Brooke,Haydon Park,14.0,0.26190476190476186,1.0
+Borrowdale Brooke,Mabelreign,14.0,0.26190476190476186,1.0
+Borrowdale Brooke,Cold Comfort,14.0,0.26190476190476186,1.0
+Borrowdale Brooke,Rockview,14.0,0.26190476190476186,1.0
+Borrowdale Brooke,Hogerty Hill,14.0,0.26190476190476186,1.0
+Chitungwiza,Sandton Park,42.5,0.26217575485812916,1.0
+Chitungwiza,Highlands,19.0,0.26348651348651353,1.0
+Mt Pleasant Heights,Rockview,16.0,0.26666666666666666,1.0
+Hogerty Hill,Pomona,5.0,0.26666666666666666,1.0
+Haydon Park,Pomona,5.0,0.26666666666666666,1.0
+Mabelreign,Pomona,5.0,0.26666666666666666,1.0
+Mt Pleasant Heights,Sunridge,25.0,0.26767676767676774,1.0
+Alexandra Park,Mt Pleasant Heights,25.0,0.26767676767676774,1.0
+Mabvazuva,Shawasha Hills,10.0,0.26767676767676774,1.0
+Mabvazuva,Mount Pleasant Heights,10.0,0.26767676767676774,1.0
+Avondale West,Chisipite,5.0,0.26834058909588177,1.0
+Chisipite,Quinnington,5.0,0.26834058909588177,1.0
+Chisipite,Prospect,15.0,0.26834058909588177,1.0
+Arlington,Chisipite,5.0,0.26834058909588177,1.0
+Glaudina,Waterfalls,12.0,0.2715941610060252,1.0
+Shawasha Hills,Waterfalls,28.0,0.2715941610060252,1.0
+Highlands,Mount Pleasant,17.0,0.2721278721278721,1.0
+Haydon Park,Mount Pleasant,7.0,0.2818181818181818,1.0
+Hogerty Hill,Mount Pleasant,7.0,0.2818181818181818,1.0
+Manyame Park,Norton,20.0,0.2818181818181818,1.0
+Crowhill Views,Mabelreign,7.0,0.2818181818181818,1.0
+Mabelreign,Mount Pleasant,7.0,0.2818181818181818,1.0
+Glaudina,Zimre Park,31.0,0.2855923468144892,1.0
+Greendale,Sunridge,15.0,0.2857142857142857,1.0
+Alexandra Park,Arlington,15.0,0.2857142857142857,1.0
+Fairview,Tynwald,5.0,0.2857142857142857,1.0
+Greendale,Marlborough,15.0,0.2857142857142857,1.0
+Carrick Creagh,Prospect,15.0,0.2857142857142857,1.0
+Glaudina,Greendale,5.0,0.2857142857142857,1.0
+Fairview,Knowe,5.0,0.2857142857142857,1.0
+Prospect,Shawasha Hills,5.0,0.2857142857142857,1.0
+Avondale West,Sunridge,15.0,0.2857142857142857,1.0
+Fairview,Marlborough,5.0,0.2857142857142857,1.0
+Avondale West,Marlborough,15.0,0.2857142857142857,1.0
+Avondale West,Tynwald,15.0,0.2857142857142857,1.0
+Greendale,Mainway Meadows,15.0,0.2857142857142857,1.0
+Glen Lorne,Mabelreign,22.0,0.2867132867132867,1.0
+Chitungwiza,Manyame Park,8.0,0.2867132867132867,1.0
+Mt Pleasant Heights,Shawasha Hills,10.5,0.29030734391519175,1.0
+Carrick Creagh,Pomona,10.5,0.29030734391519175,1.0
+Glaudina,Haydon Park,3.5,0.2938258471896372,1.0
+Hatfield,Manyame Park,28.0,0.29642857142857143,1.0
+Borrowdale Brooke,Helensvale,25.0,0.29710698354709286,1.0
+Chisipite,Glen Lorne,16.0,0.29742842490653154,1.0
+Gletwin Park,Mount Pleasant Heights,16.0,0.29742842490653154,1.0
+Mount Pleasant,Shawasha Hills,31.0,0.2977022977022977,1.0
+Fairview,Waterfalls,9.5,0.3064822343187764,1.0
+Mabelreign,Norton,19.5,0.3083297789580025,1.0
+Carrick Creagh,Tynwald,18.0,0.30952380952380953,1.0
+Hatfield,Mt Pleasant Heights,32.0,0.31137770897832817,1.0
+Alexandra Park,Helensvale,21.0,0.3142001092738079,1.0
+Greendale,Mabvazuva,20.0,0.3151515151515151,1.0
+Mt Pleasant Heights,The Grange,8.0,0.3151515151515151,1.0
+Crowhill Views,Mainway Meadows,14.5,0.3167781190302069,1.0
+Crowhill Views,Knowe,14.5,0.3167781190302069,1.0
+Chitungwiza,Fairview,12.5,0.3216664654260851,1.0
+Carrick Creagh,The Grange,5.5,0.32516268037829177,1.0
+Eastlea,Sunridge,21.0,0.32900432900432897,1.0
+Mainway Meadows,Westgate,9.0,0.32900432900432897,1.0
+Fairview,Norton,25.0,0.3300699300699301,1.0
+Crowhill Views,Prospect,11.0,0.3300699300699301,1.0
+Hillside,Prospect,12.0,0.34285714285714286,1.0
+Prospect,Quinnington,4.0,0.34285714285714286,1.0
+Avondale,Prospect,12.0,0.34285714285714286,1.0
+Avondale,Avondale West,12.0,0.34285714285714286,1.0
+Arlington,Hillside,4.0,0.34285714285714286,1.0
+Arlington,Prospect,12.0,0.34285714285714286,1.0
+Mabvazuva,Sunridge,24.0,0.3434343434343435,1.0
+Marlborough,Mt Pleasant Heights,11.0,0.3434343434343435,1.0
+Mabvazuva,Marlborough,24.0,0.3434343434343435,1.0
+Mt Pleasant Heights,Tynwald,24.0,0.3434343434343435,1.0
+Carrick Creagh,Mabvazuva,24.0,0.3434343434343435,1.0
+Mainway Meadows,Zimre Park,30.0,0.3501178793024773,1.0
+Greendale,Westgate,17.0,0.35238095238095235,1.0
+Highlands,The Grange,7.0,0.35238095238095235,1.0
+Gletwin Park,Mabvazuva,45.0,0.3526891976322697,1.0
+Zengeza,Zimre Park,8.0,0.35438318629807475,1.0
+Mabelreign,Zimre Park,19.0,0.35438318629807475,1.0
+Borrowdale,Greendale,27.0,0.3569116691550366,1.0
+Borrowdale,Quinnington,27.0,0.3569116691550366,1.0
+Rockview,Sandton Park,25.0,0.36483516483516487,1.0
+Helensvale,Mount Pleasant,19.0,0.3763326353427692,1.0
+Highlands,Zengeza,13.0,0.38095238095238093,1.0
+Cold Comfort,Eastlea,5.0,0.38095238095238093,1.0
+Eastlea,Mabelreign,13.0,0.38095238095238093,1.0
+Hogerty Hill,Westgate,13.0,0.38095238095238093,1.0
+Greystone Park,Mabelreign,13.0,0.38095238095238093,1.0
+Manyame Park,Westgate,5.0,0.38095238095238093,1.0
+Highlands,Sandton Park,46.0,0.3845076492135316,1.0
+Avondale,Chisipite,14.0,0.3892842730976598,1.0
+Mabvazuva,Westgate,27.5,0.39071430776538896,1.0
+Alexandra Park,Hogerty Hill,11.0,0.39285714285714285,1.0
+Hogerty Hill,Shawasha Hills,4.0,0.39285714285714285,1.0
+Hogerty Hill,Mount Pleasant Heights,4.0,0.39285714285714285,1.0
+Alexandra Park,Haydon Park,11.0,0.39285714285714285,1.0
+Knowe,Manyame Park,11.0,0.39285714285714285,1.0
+Haydon Park,Mount Pleasant Heights,4.0,0.39285714285714285,1.0
+Haydon Park,Shawasha Hills,4.0,0.39285714285714285,1.0
+Eastlea,Westgate,24.0,0.3939393939393939,1.0
+Eastlea,Highlands,24.0,0.3939393939393939,1.0
+Sandton Park,Sunridge,21.5,0.3987860769743443,1.0
+Haydon Park,Prospect,9.0,0.4,1.0
+Haydon Park,Hillside,3.0,0.4,1.0
+Cold Comfort,Hogerty Hill,2.0,0.4,1.0
+Avondale,Mabelreign,9.0,0.4,1.0
+Hogerty Hill,The Grange,3.0,0.4,1.0
+Manyame Park,Rockview,2.0,0.4,1.0
+Hogerty Hill,Prospect,9.0,0.4,1.0
+Fairview,Rockview,3.0,0.4,1.0
+Greendale,Manyame Park,9.0,0.4,1.0
+Cold Comfort,Haydon Park,2.0,0.4,1.0
+Greendale,Mabelreign,9.0,0.4,1.0
+Greendale,Rockview,9.0,0.4,1.0
+Haydon Park,The Grange,3.0,0.4,1.0
+Mabelreign,Quinnington,3.0,0.4,1.0
+Eastlea,Waterfalls,31.0,0.40086910961990285,1.0
+Borrowdale Brooke,Chisipite,20.0,0.41024789769198466,1.0
+Avondale West,Pomona,9.0,0.4121212121212121,1.0
+Hillside,Mabvazuva,19.0,0.4121212121212121,1.0
+Mount Pleasant Heights,Quinnington,6.0,0.4126984126984127,1.0
+Arlington,Glaudina,14.0,0.4126984126984127,1.0
+Alexandra Park,Hillside,14.0,0.4126984126984127,1.0
+Marlborough,Prospect,14.0,0.4126984126984127,1.0
+Mount Pleasant Heights,Prospect,14.0,0.4126984126984127,1.0
+Avondale,Mount Pleasant Heights,14.0,0.4126984126984127,1.0
+Carrick Creagh,Hillside,6.0,0.4126984126984127,1.0
+Greendale,Tynwald,14.0,0.4126984126984127,1.0
+Arlington,Sunridge,14.0,0.4126984126984127,1.0
+Greendale,Knowe,14.0,0.4126984126984127,1.0
+Sandton Park,Zimre Park,66.0,0.41362281943432455,1.0
+Crowhill Views,Fairview,12.0,0.413986013986014,1.0
+Alexandra Park,Shawasha Hills,17.0,0.42063492063492064,1.0
+Alexandra Park,Carrick Creagh,17.0,0.42063492063492064,1.0
+Mabvazuva,Rockview,14.5,0.4236224903690263,1.0
+Cold Comfort,Mabvazuva,6.5,0.4236224903690263,1.0
+Gletwin Park,Shawasha Hills,18.0,0.425569571316709,1.0
+Greystone Park,Shawasha Hills,20.0,0.42857142857142855,1.0
+Alexandra Park,Eastlea,20.0,0.42857142857142855,1.0
+Eastlea,Hatfield,48.5,0.4297037785371569,1.0
+Mabvazuva,Tynwald,23.0,0.4318181818181819,1.0
+Mount Pleasant Heights,Mt Pleasant Heights,23.0,0.4318181818181819,1.0
+Gletwin Park,Greendale,14.0,0.4361720023365777,1.0
+Alexandra Park,Mount Pleasant,29.0,0.43756243756243757,1.0
+Hatfield,Mabvazuva,35.0,0.437796697626419,1.0
+Hatfield,Knowe,41.0,0.44304388422035484,1.0
+Highlands,Zimre Park,34.0,0.4432496623994564,1.0
+Highlands,Pomona,15.0,0.4452214452214452,1.0
+Gletwin Park,Mabelreign,20.0,0.4462475401164281,1.0
+Avondale,Helensvale,16.0,0.4541742673554505,1.0
+Manyame Park,Zimre Park,18.0,0.45875609488554026,1.0
+Glaudina,Sandton Park,37.5,0.46032164006805465,1.0
+Arlington,Shawasha Hills,6.5,0.4605581692270928,1.0
+Carrick Creagh,Waterfalls,25.5,0.46298277014798317,1.0
+Rockview,Waterfalls,8.0,0.47395196764288483,1.0
+Arlington,Westgate,16.0,0.47619047619047616,1.0
+Avondale,Highlands,16.0,0.47619047619047616,1.0
+Greendale,Highlands,16.0,0.47619047619047616,1.0
+Fairview,Westgate,8.0,0.47619047619047616,1.0
+Eastlea,Hillside,8.0,0.47619047619047616,1.0
+Borrowdale,Borrowdale Brooke,37.0,0.480148909827134,1.0
+Borrowdale Brooke,Eastlea,23.0,0.48484848484848486,1.0
+Avondale West,Prospect,11.0,0.4857142857142857,1.0
+Arlington,Greendale,5.0,0.4857142857142857,1.0
+Fairview,Greendale,5.0,0.4857142857142857,1.0
+Avondale West,The Grange,5.0,0.4857142857142857,1.0
+Fairview,Prospect,5.0,0.4857142857142857,1.0
+Avondale West,Quinnington,5.0,0.4857142857142857,1.0
+Chitungwiza,Crowhill Views,54.0,0.48766835345893045,1.0
+Gletwin Park,Haydon Park,19.5,0.497778937009161,1.0
+Knowe,Sandton Park,37.0,0.5058177117000646,1.0
+Crowhill Views,Zimre Park,32.5,0.5073621344473913,1.0
+Alexandra Park,Glen Lorne,31.0,0.5134865134865134,1.0
+Glen Lorne,Mount Pleasant Heights,31.0,0.5134865134865134,1.0
+Mabelreign,Mt Pleasant Heights,7.0,0.5166666666666666,1.0
+Mabelreign,Mabvazuva,7.0,0.5166666666666666,1.0
+Crowhill Views,Manyame Park,9.5,0.5168009016486955,1.0
+Helensvale,Mabelreign,12.0,0.5168531939054699,1.0
+Prospect,Sandton Park,30.0,0.5208791208791208,1.0
+Carrick Creagh,Helensvale,11.0,0.5218690919074656,1.0
+Arlington,Gletwin Park,15.0,0.524061926796431,1.0
+Gletwin Park,Hillside,15.0,0.524061926796431,1.0
+Mt Pleasant Heights,Waterfalls,34.0,0.5240789974851849,1.0
+Greendale,Mt Pleasant Heights,18.0,0.5272727272727272,1.0
+Avondale West,Mabvazuva,18.0,0.5272727272727272,1.0
+Chisipite,Shawasha Hills,16.0,0.5296192990034517,1.0
+Cold Comfort,Sandton Park,23.0,0.5362637362637362,1.0
+Eastlea,Marlborough,19.0,0.5367965367965368,1.0
+Eastlea,Tynwald,19.0,0.5367965367965368,1.0
+Hatfield,Waterfalls,43.0,0.538042527584472,1.0
+Glen Lorne,Prospect,25.0,0.5394605394605395,1.0
+Eastlea,Rockview,12.0,0.5476190476190476,1.0
+Haydon Park,Westgate,12.0,0.5476190476190476,1.0
+Knowe,Tynwald,9.0,0.5476190476190477,1.0
+Chisipite,Mabelreign,10.0,0.5485954657999336,1.0
+Fairview,Hatfield,20.0,0.5487394957983193,1.0
+Greendale,Waterfalls,20.0,0.5515177080217877,1.0
+Gletwin Park,Hogerty Hill,19.0,0.5535678338594979,1.0
+Borrowdale Brooke,Mount Pleasant,32.5,0.5553364915011433,1.0
+Alexandra Park,Prospect,13.0,0.5555555555555556,1.0
+Shawasha Hills,The Grange,7.0,0.5555555555555556,1.0
+Arlington,Tynwald,13.0,0.5555555555555556,1.0
+Prospect,Tynwald,7.0,0.5555555555555556,1.0
+Fairview,Sunridge,7.0,0.5555555555555556,1.0
+Arlington,Carrick Creagh,7.0,0.5555555555555556,1.0
+Borrowdale Brooke,Glen Lorne,36.0,0.5621878121878122,1.0
+Gletwin Park,Waterfalls,47.0,0.5631715632600889,1.0
+Chitungwiza,Norton,52.5,0.5674585271954133,1.0
+Avondale West,Glen Lorne,15.5,0.5711843660512971,1.0
+Hogerty Hill,Marlborough,10.0,0.5714285714285714,1.0
+Hogerty Hill,Tynwald,10.0,0.5714285714285714,1.0
+Hogerty Hill,Sunridge,10.0,0.5714285714285714,1.0
+Haydon Park,Tynwald,10.0,0.5714285714285714,1.0
+Mainway Meadows,Rockview,5.0,0.5714285714285714,1.0
+Carrick Creagh,Mabelreign,10.0,0.5714285714285714,1.0
+Mabelreign,Shawasha Hills,5.0,0.5714285714285714,1.0
+Mabelreign,Mount Pleasant Heights,5.0,0.5714285714285714,1.0
+Glaudina,Manyame Park,10.0,0.5714285714285714,1.0
+Manyame Park,Sunridge,5.0,0.5714285714285714,1.0
+Marlborough,Rockview,10.0,0.5714285714285714,1.0
+Chitungwiza,Mabelreign,11.0,0.5734265734265734,1.0
+Fairview,Zimre Park,22.0,0.5886419272719632,1.0
+Greystone Park,Highlands,22.0,0.5887445887445888,1.0
+Chisipite,Mount Pleasant,18.0,0.5921705854473711,1.0
+Helensvale,Prospect,15.0,0.5929096584060489,1.0
+Helensvale,The Grange,9.0,0.5929096584060489,1.0
+Arlington,Helensvale,9.0,0.5929096584060489,1.0
+Marlborough,Sunridge,15.5,0.6004018480969686,1.0
+Glaudina,Tynwald,9.5,0.6004018480969686,1.0
+Glaudina,Marlborough,9.5,0.6004018480969686,1.0
+Sunridge,Waterfalls,16.0,0.6079144110112804,1.0
+Tynwald,Waterfalls,16.0,0.6079144110112804,1.0
+Cold Comfort,Waterfalls,9.0,0.6090190999793599,1.0
+Avondale,Greystone Park,15.0,0.6095238095238095,1.0
+Borrowdale Brooke,Hillside,15.0,0.6095238095238095,1.0
+Avondale,Borrowdale Brooke,9.0,0.6095238095238095,1.0
+Avondale West,Highlands,15.0,0.6095238095238095,1.0
+Greystone Park,Quinnington,9.0,0.6095238095238095,1.0
+Borrowdale Brooke,Prospect,15.0,0.6095238095238095,1.0
+Eastlea,Prospect,15.0,0.6095238095238095,1.0
+Eastlea,The Grange,9.0,0.6095238095238095,1.0
+Arlington,Eastlea,9.0,0.6095238095238095,1.0
+Hatfield,Hogerty Hill,15.0,0.6107142857142858,1.0
+Mabvazuva,Mt Pleasant Heights,20.0,0.6200466200466201,1.0
+Glen Lorne,Pomona,40.5,0.6253732679595977,1.0
+Chisipite,Pomona,21.0,0.6255124764161988,1.0
+Eastlea,Pomona,17.0,0.6282051282051282,1.0
+Cold Comfort,Greendale,4.0,0.6285714285714286,1.0
+Hillside,Hogerty Hill,8.0,0.6285714285714286,1.0
+Greendale,Haydon Park,8.0,0.6285714285714286,1.0
+Arlington,Rockview,8.0,0.6285714285714286,1.0
+Arlington,Cold Comfort,8.0,0.6285714285714286,1.0
+Arlington,Mabelreign,8.0,0.6285714285714286,1.0
+Greendale,Hogerty Hill,8.0,0.6285714285714286,1.0
+Avondale West,Cold Comfort,8.0,0.6285714285714286,1.0
+Avondale West,Mabelreign,8.0,0.6285714285714286,1.0
+Mabelreign,Sandton Park,22.0,0.6329670329670329,1.0
+Glen Lorne,Greystone Park,35.0,0.6353646353646354,1.0
+Hatfield,Haydon Park,15.5,0.6374853752551338,1.0
+Pomona,Shawasha Hills,21.0,0.638888888888889,1.0
+Helensvale,Shawasha Hills,18.0,0.647328684583698,1.0
+Avondale,Pomona,17.0,0.6484848484848484,1.0
+Pomona,Quinnington,11.0,0.6484848484848484,1.0
+Waterfalls,Westgate,28.0,0.651020164768541,1.0
+Haydon Park,Sunridge,9.5,0.6527828452619114,1.0
+Mainway Meadows,Manyame Park,9.5,0.6527828452619114,1.0
+Haydon Park,Marlborough,9.5,0.6527828452619114,1.0
+Hatfield,Sunridge,37.5,0.6571823339531367,1.0
+Glaudina,Hatfield,27.5,0.6571823339531367,1.0
+Norton,Zimre Park,35.0,0.6586782438537488,1.0
+Glaudina,Westgate,12.0,0.6623376623376623,1.0
+Greystone Park,Mount Pleasant Heights,18.0,0.6623376623376623,1.0
+Glaudina,Highlands,12.0,0.6623376623376623,1.0
+Borrowdale Brooke,Mount Pleasant Heights,18.0,0.6623376623376623,1.0
+Highlands,Mount Pleasant Heights,12.0,0.6623376623376623,1.0
+Alexandra Park,Borrowdale,21.0,0.6676116155300016,1.0
+Avondale West,Waterfalls,19.0,0.6705828944706097,1.0
+Chisipite,Mount Pleasant Heights,15.0,0.6751736149271245,1.0
+Alexandra Park,Chisipite,15.0,0.6751736149271245,1.0
+Arlington,Avondale West,6.0,0.6857142857142857,1.0
+Hillside,Quinnington,6.0,0.6857142857142857,1.0
+Helensvale,Highlands,21.0,0.6884038632756921,1.0
+Knowe,Mainway Meadows,15.0,0.6904761904761905,1.0
+Alexandra Park,Mount Pleasant Heights,15.0,0.6904761904761905,1.0
+Carrick Creagh,Mount Pleasant Heights,10.0,0.6904761904761905,1.0
+Carrick Creagh,Shawasha Hills,10.0,0.6904761904761905,1.0
+Eastlea,Greystone Park,15.0,0.6991341991341992,1.0
+Borrowdale Brooke,Greystone Park,21.0,0.6991341991341992,1.0
+Haydon Park,Hogerty Hill,3.0,0.7,1.0
+Haydon Park,Rockview,6.0,0.7,1.0
+Mabelreign,Zengeza,6.0,0.7,1.0
+Haydon Park,Mabelreign,6.0,0.7,1.0
+Hogerty Hill,Rockview,6.0,0.7,1.0
+Hogerty Hill,Mabelreign,6.0,0.7,1.0
+Arlington,Hatfield,30.0,0.7033613445378151,1.0
+Hatfield,Prospect,30.0,0.7033613445378151,1.0
+Hatfield,Mabelreign,23.0,0.7035714285714286,1.0
+Avondale West,Mount Pleasant,15.0,0.7104895104895105,1.0
+Mount Pleasant,Prospect,21.0,0.7104895104895105,1.0
+Eastlea,Glen Lorne,26.0,0.7127872127872128,1.0
+Knowe,Waterfalls,17.0,0.7140171837884338,1.0
+Eastlea,Haydon Park,11.0,0.7142857142857142,1.0
+Fairview,Sandton Park,27.5,0.7158048157460368,1.0
+Borrowdale,The Grange,23.0,0.7230893379275387,1.0
+Fairview,Glaudina,8.0,0.7301587301587302,1.0
+Hillside,Shawasha Hills,12.0,0.7301587301587302,1.0
+Fairview,Mainway Meadows,8.0,0.7301587301587302,1.0
+Carrick Creagh,Greendale,8.0,0.7301587301587302,1.0
+Greendale,Shawasha Hills,12.0,0.7301587301587302,1.0
+Alexandra Park,Avondale,12.0,0.7301587301587302,1.0
+Mount Pleasant Heights,The Grange,8.0,0.7301587301587302,1.0
+Alexandra Park,Quinnington,12.0,0.7301587301587302,1.0
+Arlington,Mount Pleasant Heights,8.0,0.7301587301587302,1.0
+Eastlea,Mabvazuva,24.0,0.7307692307692307,1.0
+Borrowdale Brooke,Pomona,24.0,0.7307692307692307,1.0
+Eastlea,Mt Pleasant Heights,24.0,0.7307692307692307,1.0
+Gletwin Park,Mt Pleasant Heights,39.0,0.7325205934664789,1.0
+Helensvale,Hillside,10.0,0.7483812122920345,1.0
+Greendale,Helensvale,14.0,0.7483812122920345,1.0
+Glaudina,Sunridge,10.5,0.7532980334628383,1.0
+Mount Pleasant Heights,Pomona,15.0,0.7550505050505051,1.0
+Carrick Creagh,Mt Pleasant Heights,20.0,0.7550505050505051,1.0
+Haydon Park,Waterfalls,14.0,0.7589313049399807,1.0
+Hogerty Hill,Waterfalls,14.0,0.7589313049399807,1.0
+Highlands,Prospect,10.0,0.7619047619047619,1.0
+Eastlea,Greendale,10.0,0.7619047619047619,1.0
+Greystone Park,Hillside,14.0,0.7619047619047619,1.0
+Avondale West,Borrowdale Brooke,10.0,0.7619047619047619,1.0
+Borrowdale Brooke,Quinnington,14.0,0.7619047619047619,1.0
+Eastlea,Quinnington,10.0,0.7619047619047619,1.0
+Greystone Park,The Grange,10.0,0.7619047619047619,1.0
+Greystone Park,Mount Pleasant,24.0,0.7756243756243756,1.0
+Chisipite,Greystone Park,17.0,0.783711298793628,1.0
+Glaudina,Rockview,6.0,0.7857142857142857,1.0
+Carrick Creagh,Hogerty Hill,9.0,0.7857142857142857,1.0
+Mabelreign,Tynwald,6.0,0.7857142857142857,1.0
+Mabelreign,Marlborough,6.0,0.7857142857142857,1.0
+Cold Comfort,Mainway Meadows,9.0,0.7857142857142857,1.0
+Cold Comfort,Marlborough,6.0,0.7857142857142857,1.0
+Carrick Creagh,Haydon Park,9.0,0.7857142857142857,1.0
+Arlington,Mt Pleasant Heights,12.0,0.7878787878787878,1.0
+Pomona,The Grange,12.0,0.7878787878787878,1.0
+Greendale,Pomona,12.0,0.7878787878787878,1.0
+Crowhill Views,Norton,37.0,0.7910815129207817,1.0
+Highlands,Sunridge,17.0,0.7922077922077921,1.0
+Sunridge,Westgate,13.0,0.7922077922077921,1.0
+Highlands,Mainway Meadows,17.0,0.7922077922077921,1.0
+Mount Pleasant,Mount Pleasant Heights,25.0,0.7972027972027972,1.0
+Arlington,Waterfalls,18.0,0.7985617630048201,1.0
+Chitungwiza,Zengeza,17.0,0.7993057345759638,1.0
+Knowe,Prospect,11.5,0.8057007967202067,1.0
+Chitungwiza,Zimre Park,41.5,0.8063293529908055,1.0
+Greystone Park,Helensvale,20.0,0.8098548786049068,1.0
+Hillside,Mount Pleasant,20.0,0.8251748251748252,1.0
+Marlborough,Waterfalls,18.0,0.8259648022720806,1.0
+Avondale West,Gletwin Park,22.0,0.8318218743964246,1.0
+Mainway Meadows,Sandton Park,32.5,0.8329279983741257,1.0
+Haydon Park,Mt Pleasant Heights,9.0,0.8333333333333333,1.0
+Glen Lorne,Mount Pleasant,48.0,0.8382564863858263,1.0
+Avondale,Glen Lorne,18.0,0.8391608391608392,1.0
+Glen Lorne,Quinnington,18.0,0.8391608391608392,1.0
+Sunridge,Tynwald,11.0,0.8412698412698413,1.0
+Glaudina,Mainway Meadows,14.0,0.8412698412698413,1.0
+Mainway Meadows,Sunridge,11.0,0.8412698412698413,1.0
+Highlands,Waterfalls,26.0,0.8462836882024691,1.0
+Fairview,Mabelreign,5.0,0.8571428571428571,1.0
+Manyame Park,Prospect,5.0,0.8571428571428571,1.0
+Avondale West,Haydon Park,7.0,0.8571428571428571,1.0
+Prospect,Rockview,5.0,0.8571428571428571,1.0
+Cold Comfort,Fairview,7.0,0.8571428571428571,1.0
+Avondale West,Hogerty Hill,7.0,0.8571428571428571,1.0
+Norton,Zengeza,15.0,0.8636363636363636,1.0
+Crowhill Views,Zengeza,12.0,0.8636363636363636,1.0
+Eastlea,Mount Pleasant,25.0,0.8639360639360639,1.0
+Alexandra Park,Pomona,19.0,0.8762626262626263,1.0
+Cold Comfort,Glaudina,8.5,0.8807910225110613,1.0
+Manyame Park,Sandton Park,19.5,0.8851320188348406,1.0
+Avondale West,Greendale,7.0,0.8857142857142857,1.0
+Avondale,Greendale,9.0,0.8857142857142857,1.0
+Greendale,Prospect,9.0,0.8857142857142857,1.0
+Greendale,The Grange,7.0,0.8857142857142857,1.0
+Avondale,Quinnington,7.0,0.8857142857142857,1.0
+Hatfield,Westgate,41.0,0.8982750995134897,1.0
+Hatfield,Highlands,37.0,0.8982750995134897,1.0
+Hatfield,Rockview,21.0,0.9,1.0
+Carrick Creagh,Gletwin Park,26.5,0.902349590169486,1.0
+Eastlea,Hogerty Hill,10.0,0.9047619047619047,1.0
+Cold Comfort,Highlands,8.0,0.9047619047619047,1.0
+Rockview,Westgate,8.0,0.9047619047619047,1.0
+Highlands,Manyame Park,10.0,0.9047619047619047,1.0
+Greendale,Mount Pleasant Heights,11.0,0.9047619047619049,1.0
+Mainway Meadows,Prospect,9.0,0.9047619047619049,1.0
+Arlington,Marlborough,11.0,0.9047619047619049,1.0
+Avondale West,Shawasha Hills,9.0,0.9047619047619049,1.0
+Alexandra Park,Greendale,11.0,0.9047619047619049,1.0
+Alexandra Park,Avondale West,11.0,0.9047619047619049,1.0
+Eastlea,Gletwin Park,31.5,0.9134998601027751,1.0
+Fairview,Highlands,11.0,0.9142857142857143,1.0
+Borrowdale Brooke,The Grange,13.0,0.9142857142857143,1.0
+Greendale,Greystone Park,11.0,0.9142857142857143,1.0
+Arlington,Highlands,13.0,0.9142857142857143,1.0
+Borrowdale Brooke,Greendale,13.0,0.9142857142857143,1.0
+Avondale West,Eastlea,13.0,0.9142857142857143,1.0
+Prospect,Westgate,11.0,0.9142857142857143,1.0
+Avondale,Eastlea,13.0,0.9142857142857143,1.0
+Avondale West,Helensvale,11.0,0.9148485865792471,1.0
+Mabelreign,Waterfalls,11.0,0.918522662297781,1.0
+Hatfield,Marlborough,34.0,0.9213965607084481,1.0
+Chisipite,Helensvale,14.0,0.9269325160816494,1.0
+Helensvale,Mount Pleasant Heights,16.0,0.9270990616387901,1.0
+Avondale West,Mt Pleasant Heights,15.0,0.9272727272727272,1.0
+Eastlea,Mount Pleasant Heights,14.0,0.9307359307359306,1.0
+Knowe,Westgate,14.0,0.9307359307359306,1.0
+Carrick Creagh,Eastlea,14.0,0.9307359307359306,1.0
+Marlborough,Westgate,16.0,0.9307359307359306,1.0
+Highlands,Shawasha Hills,14.0,0.9307359307359306,1.0
+Carrick Creagh,Highlands,16.0,0.9307359307359306,1.0
+Alexandra Park,Borrowdale Brooke,16.0,0.9307359307359306,1.0
+Tynwald,Westgate,16.0,0.9307359307359306,1.0
+Alexandra Park,Greystone Park,16.0,0.9307359307359306,1.0
+Prospect,Waterfalls,15.0,0.9322060337758794,1.0
+Eastlea,Helensvale,19.0,0.9360746770666198,1.0
+Highlands,Westgate,19.0,0.9372294372294373,1.0
+Mount Pleasant,The Grange,17.0,0.9398601398601399,1.0
+Mount Pleasant,Quinnington,17.0,0.9398601398601399,1.0
+Avondale,Mount Pleasant,17.0,0.9398601398601399,1.0
+Greendale,Mount Pleasant,17.0,0.9398601398601399,1.0
+Helensvale,Pomona,20.0,0.9429784240576059,1.0
+Glen Lorne,Greendale,21.0,0.945054945054945,1.0
+Glen Lorne,The Grange,19.0,0.945054945054945,1.0
+Mabvazuva,Waterfalls,27.0,0.9538159449155051,1.0
+Hatfield,Tynwald,32.0,0.9999999999999998,1.0
+Haydon Park,Mabvazuva,10.0,0.9999999999999999,1.0
+Hogerty Hill,Mabvazuva,11.0,0.9999999999999999,1.0
+Cold Comfort,Tynwald,7.0,1.0,1.0
+Cold Comfort,Westgate,9.0,1.0,1.0
+Marlborough,Tynwald,12.0,1.0,1.0
+Cold Comfort,Manyame Park,5.0,1.0,1.0
+Cold Comfort,Prospect,6.0,1.0,1.0
+Cold Comfort,Rockview,4.0,1.0,1.0
+Cold Comfort,Sunridge,7.0,1.0,1.0
+Mount Pleasant,Pomona,32.0,1.0,1.0
+Hillside,Mount Pleasant Heights,10.0,1.0,1.0
+Highlands,Tynwald,15.0,1.0,1.0
+Highlands,Marlborough,15.0,1.0,1.0
+Highlands,Mt Pleasant Heights,21.0,1.0,1.0
+Arlington,Hogerty Hill,6.0,1.0,1.0
+Arlington,Haydon Park,6.0,1.0,1.0
+Alexandra Park,The Grange,10.0,1.0,1.0
+Mabelreign,Rockview,4.0,1.0,1.0
+Mabelreign,Prospect,5.5,1.0,1.0
+Greendale,Quinnington,8.0,1.0,1.0
+Greendale,Hillside,8.0,1.0,1.0
+Gletwin Park,Highlands,30.0,1.0,1.0
+Chisipite,Eastlea,15.0,1.0,1.0
+Chisipite,Greendale,10.0,1.0,1.0
+Glen Lorne,Hillside,20.5,1.0,1.0
+Eastlea,Shawasha Hills,15.0,1.0,1.0
+Cold Comfort,Hatfield,19.0,1.0,1.0
+Chisipite,The Grange,10.0,1.0,1.0
+Mount Pleasant Heights,Shawasha Hills,13.0,1.0,1.0
+Glaudina,Mabelreign,7.0,1.0,1.0
+Glaudina,Knowe,12.0,1.0,1.0
+Fairview,Manyame Park,6.0,1.0,1.0
+Glaudina,Prospect,10.0,1.0,1.0
+Chisipite,Highlands,15.0,1.0,1.0
+Chisipite,Hillside,10.0,1.0,1.0
+Hillside,Pomona,14.0,1.0,1.0
+Hillside,The Grange,8.0,1.0,1.0
+Highlands,Rockview,9.0,1.0,1.0
+Arlington,Mabvazuva,13.5,1.0,1.0
+Cold Comfort,Knowe,8.0,1.0,1.0
+Cold Comfort,Mabelreign,5.0,1.0,1.0
+Haydon Park,Highlands,9.0,1.0,1.0
+Mabelreign,Manyame Park,5.0,1.0,1.0
+Mabelreign,Mainway Meadows,8.0,1.0,1.0
+Knowe,Sunridge,12.0,1.0,1.0
+Knowe,Rockview,7.0,1.0,1.0
+Mabelreign,Westgate,9.0,1.0,1.0
+Mabelreign,Sunridge,8.0,1.0,1.0
+Greystone Park,Pomona,21.5,1.0,1.0
+Avondale,Hillside,8.0,1.0,1.0
+Quinnington,The Grange,8.0,1.0,1.0
+Rockview,Sunridge,8.0,1.0,1.0
+Rockview,Tynwald,7.0,1.0,1.0
+Avondale West,Hillside,8.0,1.0,1.0
+Knowe,Mabelreign,7.0,1.0,1.0
+Prospect,Sunridge,10.0,1.0,1.0
+Avondale West,Carrick Creagh,10.0,1.0,1.0
+Avondale West,Mount Pleasant Heights,10.0,1.0,1.0
+Highlands,Mabelreign,9.0,1.0,1.0
+Highlands,Hogerty Hill,9.0,1.0,1.0
+Hogerty Hill,Mt Pleasant Heights,10.5,1.0,1.0
+Avondale,The Grange,8.0,1.0,1.0
+Highlands,Knowe,15.0,1.0,1.0
+Highlands,Mabvazuva,21.0,1.0,1.0

@@ -1,0 +1,5 @@
+scenario,suburb,area,title_deeds,cession,predicted_price
+Madokero + Title Deeds,Madokero,Harare West,1,0,95349.07168541319
+Mabvazuva + Cession,Mabvazuva,Ruwa,0,1,95344.21944713056
+Mabvazuva + Title Deeds,Mabvazuva,Ruwa,1,0,95156.98158829793
+Madokero + Cession,Madokero,Harare West,0,1,95536.68751481475
