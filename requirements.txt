@@ -1,0 +1,34 @@
+# MSAC512 — Predictive Modelling of Residential House Prices in Zimbabwe
+# Python 3.14 (tested on conda env "notebook-env")
+
+# Core data manipulation
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Machine learning
+scikit-learn>=1.4.0
+statsmodels>=0.14.0
+scipy>=1.11.0
+
+# Vision-language model (CLIP)
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.38.0
+Pillow>=10.0.0
+
+# Progress bars for long-running loops
+tqdm>=4.66.0
+
+# Plotting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
